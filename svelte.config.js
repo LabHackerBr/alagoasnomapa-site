@@ -8,9 +8,11 @@ const config = {
 	preprocess: preprocess(),
 
 	kit: {
+		prerender: {default: true},
 		adapter: adapter({
 			pages: "docs",
-			assets: "docs"
+			assets: "docs",
+			fallback: false
 		}),
 
 		// Override http methods in the Todo forms
