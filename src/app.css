@@ -3,6 +3,11 @@
 @tailwind utilities;
 
 html,
-body {
-  @apply w-full h-full bg-black text-white;
+body,
+#app {
+  @apply w-full h-full;
+}
+
+#app {
+	@apply bg-black text-white;
 }

@@ -1,1 +1,1 @@
-teste
+<div class="flex w-full h-full items-center justify-center">Em construção</div>
