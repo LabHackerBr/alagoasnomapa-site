@@ -1,10 +1,9 @@
 {
-  "name": "alagoas-no-mapa",
+  "name": "sveltekit-test",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
-    "deploy": "yarn build && node ./gh-pages.js",
     "package": "svelte-kit package",
     "preview": "svelte-kit preview",
     "prepare": "svelte-kit sync",
@@ -14,7 +13,8 @@
   "devDependencies": {
     "@sveltejs/adapter-auto": "next",
     "@sveltejs/kit": "next",
-    "svelte": "^3.44.0",
+    "@types/cookie": "^0.4.1",
+    "svelte": "^3.46.0",
     "svelte-check": "^2.2.6",
     "svelte-preprocess": "^4.10.1",
     "tslib": "^2.3.1",
@@ -22,7 +22,9 @@
   },
   "type": "module",
   "dependencies": {
+    "@fontsource/fira-mono": "^4.5.0",
+    "@lukeed/uuid": "^2.0.0",
     "@sveltejs/adapter-static": "^1.0.0-next.29",
-    "gh-pages": "^3.2.3"
+    "cookie": "^0.4.1"
   }
 }
