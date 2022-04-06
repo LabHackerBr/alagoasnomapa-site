@@ -1,58 +1,86 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-7c698201.js",
+    "file": "start-f2e548dc.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_index-02e5120b.js"
+      "_index-612c304d.js",
+      "_singletons-1b661bce.js"
     ],
     "dynamicImports": [
       "src/routes/__layout.svelte",
       ".svelte-kit/runtime/components/error.svelte",
       "src/routes/index.svelte",
-      "src/routes/coqueiroseco.svelte"
+      "src/routes/[cidade]/index.svelte",
+      "src/routes/[cidade]/creditos/index.svelte"
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-bd715d31.js",
+    "file": "pages/__layout.svelte-ca1f7545.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-02e5120b.js"
+      "_index-612c304d.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-2df98da3.css"
+      "assets/pages/__layout.svelte-e73fed42.css"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
-    "file": "error.svelte-bd9e16ff.js",
+    "file": "error.svelte-7b6fb989.js",
     "src": ".svelte-kit/runtime/components/error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-02e5120b.js"
+      "_index-612c304d.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-4fc03ce9.js",
+    "file": "pages/index.svelte-5ab9b2e7.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-02e5120b.js"
+      "_index-612c304d.js"
     ]
   },
-  "src/routes/coqueiroseco.svelte": {
-    "file": "pages/coqueiroseco.svelte-19c6ed9b.js",
-    "src": "src/routes/coqueiroseco.svelte",
+  "src/routes/[cidade]/index.svelte": {
+    "file": "pages/_cidade_/index.svelte-0ec458f8.js",
+    "src": "src/routes/[cidade]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-02e5120b.js"
+      "_index-612c304d.js",
+      "_singletons-1b661bce.js",
+      "_Icon-df5effb3.js"
     ]
   },
-  "_index-02e5120b.js": {
-    "file": "chunks/index-02e5120b.js"
+  "src/routes/[cidade]/creditos/index.svelte": {
+    "file": "pages/_cidade_/creditos/index.svelte-6f905765.js",
+    "src": "src/routes/[cidade]/creditos/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-612c304d.js",
+      "_singletons-1b661bce.js",
+      "_Icon-df5effb3.js"
+    ],
+    "css": [
+      "assets/pages/_cidade_/creditos/index.svelte-64c4101e.css"
+    ]
+  },
+  "_index-612c304d.js": {
+    "file": "chunks/index-612c304d.js"
+  },
+  "_singletons-1b661bce.js": {
+    "file": "chunks/singletons-1b661bce.js"
+  },
+  "_Icon-df5effb3.js": {
+    "file": "chunks/Icon-df5effb3.js",
+    "imports": [
+      "_singletons-1b661bce.js",
+      "_index-612c304d.js"
+    ]
   }
 }
