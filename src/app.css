@@ -8,6 +8,42 @@ body,
   @apply w-full h-full;
 }
 
-#app {
+body {
 	@apply bg-black text-white;
 }
+
+ol, p {
+  @apply mb-4;
+}
+
+h1 {
+  @apply mt-12 text-2xl font-bold uppercase;
+
+  text-shadow: 3px 1px 0px rgb(0, 255, 255), -3px -1px 0px rgb(255,0,255);
+}
+
+h2 {
+  @apply mt-6;
+}
+
+a, h2 {  
+  @apply font-bold; 
+  
+  text-shadow: 2px 0px 0px rgba(251, 12, 12,1), -2px 0px 0px rgba(12, 79, 251,.5); 
+}
+
+a {
+  @apply underline mr-3 w-8 transition-colors;
+}
+
+a:hover {
+  @apply text-red-600;
+}
+
+a svg {
+  @apply transition-all;
+
+  filter: drop-shadow(2px 0px 0px rgba(251, 12, 12,1)) drop-shadow(-2px 0px 0px rgba(12, 79, 251,.5));
+}
+
+a:hover svg {filter: none;}

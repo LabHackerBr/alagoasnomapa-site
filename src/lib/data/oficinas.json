@@ -1,0 +1,26 @@
+{
+  "Vídeo": {
+    "chamada": "Vídeos realizados",
+    "orientacao": "Danilo do Carmo"
+  },
+  "Fotografia": {
+    "chamada": "Fotografias realizadas",
+    "orientacao": "Amanda Moa"
+  },
+  "Atuação para Redes Sociais": {
+    "chamada": "Captação e roteiro para conteúdos de redes sociais",
+    "orientacao": "Elaine Lima"
+  },
+  "Produção": {
+    "chamada": "Produção Cultural",
+    "orientacao": "Evelyn Gomes"
+  },
+  "Edição": {
+    "chamada": "Edição e Decupagem de Som e Imagem",
+    "orientacao": "Glauber Xavier"
+  },
+  "Programação": {
+    "chamada": "Programado",
+    "orientacao": "Eduardo Liron"
+  }
+}
