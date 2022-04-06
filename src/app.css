@@ -47,7 +47,11 @@ h1, h2 {
 }
 
 a {
-  @apply underline w-8 transition-colors font-bold;
+  @apply w-8 transition-all font-bold;
+}
+
+a:hover  {
+  text-shadow: 2px 1px 0px rgb(0, 255, 255), -2px -1px 0px rgb(255,0,255);
 }
 
 a svg {
