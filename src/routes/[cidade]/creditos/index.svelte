@@ -18,7 +18,7 @@
 <div class="max-w-4xl mx-auto py-32">
   <img src="/logo.png" alt="logo do projeto representando o mapa de alagoas" />
   <p>
-    <strong>Alagoas no Mapa</strong> &eacute; um projeto que estimula a cultura de
+    <b>Alagoas no Mapa</b> &eacute; um projeto que estimula a cultura de
     colabora&ccedil;&atilde;o e participa&ccedil;&atilde;o em meios digitais nos
     munic&iacute;pios alagoanos, com o objetivo de mapear territ&oacute;rios f&iacute;sicos
     e afetivos e possibilitando que existam mais informa&ccedil;&otilde;es sobre

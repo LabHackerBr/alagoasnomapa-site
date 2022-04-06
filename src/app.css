@@ -2,6 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 400;
+  src: url('/fonts/raleway-regular.eot');
+  src: local('raleway-heavy'), url('/fonts/raleway-regular.woff') format('woff'), url('/fonts/raleway-regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 900;
+  src: url('/fonts/raleway-heavy.eot');
+  src: local('raleway-heavy'), url('/fonts/raleway-heavy.woff') format('woff'), url('/fonts/raleway-heavy.ttf') format('truetype');
+}
+
 html,
 body,
 #app {
@@ -10,6 +24,8 @@ body,
 
 body {
 	@apply bg-black text-white;
+
+  font-family: 'Raleway';
 }
 
 ol, p {
@@ -19,31 +35,25 @@ ol, p {
 h1 {
   @apply mt-12 text-2xl font-bold uppercase;
 
-  text-shadow: 3px 1px 0px rgb(0, 255, 255), -3px -1px 0px rgb(255,0,255);
+  text-shadow: 2px 1px 0px rgb(0, 255, 255), -2px -1px 0px rgb(255,0,255);
 }
 
 h2 {
-  @apply mt-6;
+  @apply mt-6 lowercase;
 }
 
-a, h2 {  
-  @apply font-bold; 
-  
-  text-shadow: 2px 0px 0px rgba(251, 12, 12,1), -2px 0px 0px rgba(12, 79, 251,.5); 
+h1, h2 {
+  font-weight: 900;
 }
 
 a {
-  @apply underline mr-3 w-8 transition-colors;
-}
-
-a:hover {
-  @apply text-red-600;
+  @apply underline mr-3 w-8 transition-colors font-bold;
 }
 
 a svg {
   @apply transition-all;
-
-  filter: drop-shadow(2px 0px 0px rgba(251, 12, 12,1)) drop-shadow(-2px 0px 0px rgba(12, 79, 251,.5));
 }
 
-a:hover svg {filter: none;}
+a:hover svg {
+  filter: drop-shadow(2px 1px 0px rgb(0, 255, 255)) drop-shadow(-2px -1px 0px rgb(255, 0, 255));
+}
