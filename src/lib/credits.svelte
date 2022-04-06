@@ -48,3 +48,10 @@
   <li>{oficina.nome} - {oficinas[oficina.nome].orientacao}</li>
   {/each}
 </ol>
+
+{#if 'logo' in infos}
+  <img
+    src="{infos.logo.src}" 
+    alt="{infos.logo.alt}"
+    />
+{/if}

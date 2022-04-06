@@ -47,7 +47,7 @@ h1, h2 {
 }
 
 a {
-  @apply underline mr-3 w-8 transition-colors font-bold;
+  @apply underline w-8 transition-colors font-bold;
 }
 
 a svg {

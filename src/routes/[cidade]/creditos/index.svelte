@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { base } from "$app/paths"
   import { browser } from '$app/env'  
   import { goto } from '$app/navigation'
   import { page } from '$app/stores'
@@ -12,11 +13,13 @@
   else if(browser) goto("/")  
 </script>
 
-<button class="fixed top-4 right-4 w-8 hover:text-red-600 transition-colors">
+<a
+  href="{base}/{$page.params.cidade}"
+  class="fixed top-4 right-4 w-8 transition-colors">
   <Icon width="100%" icon="ci:off-close" />
-</button>
+</a>
 <div class="max-w-4xl mx-auto py-32">
-  <img src="/logo.png" alt="logo do projeto representando o mapa de alagoas" />
+  <img src="/logo_full.jpg" alt="logo do projeto representando o mapa de alagoas" />
   <p>
     <b>Alagoas no Mapa</b> &eacute; um projeto que estimula a cultura de
     colabora&ccedil;&atilde;o e participa&ccedil;&atilde;o em meios digitais nos
@@ -30,9 +33,15 @@
   <Credits infos={cityInfos} />
   {/if}
   <h2 class="mt-12 text-lg">Saiba mais:</h2>
-  <div class="flex mt-2">
+  <div class="links flex mt-2">
     <a href="https://www.instagram.com/alagoasnomapa/"><Icon width="100%" icon="bxl:instagram" /></a>
     <a href="https://www.flickr.com/photos/195400239@N08/albums"><Icon width="100%" icon="bxl:flickr-square" /></a>
     <a href="https://www.youtube.com/channel/UCvzcof2jkHkWY756hJiw-ZQ"><Icon width="100%" icon="bxl:youtube" /></a>
   </div>
 </div>
+
+<style lang="postcss">
+  .links a {
+    @apply mr-3;
+  }
+</style>
