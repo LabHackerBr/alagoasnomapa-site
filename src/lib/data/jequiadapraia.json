@@ -1,0 +1,144 @@
+{
+  "cidade": "Jequiá da Praia",
+  "slogan": "Na primeira etapa, Entre Lagoas, o segundo município visitado foi Jequiá da Praia.",
+  "link": "jequia-da-praia",
+  "oficinas": [
+    {
+      "nome": "Vídeo",
+      "participantes": [
+        "Soraya La Brunny dos Santos",
+        "Luis Wellington Tenório da Rocha",
+        "Pietro"
+      ]
+    },
+    {
+      "nome": "Fotografia",
+      "participantes": [
+        "Anaires Galdino da Silva",
+        "Deyvillanne dos Santos Fidelis",
+        "Luiz Henrique Lima da Conceição de Jesus",
+        "Renan Santos de Carvalho",
+        "Thaysia Marques dos Santos"
+      ]
+    },
+    {
+      "nome": "Atuação para Redes Sociais",
+      "participantes": [
+        "Rosane da Conceição Pereira",
+        "Carlos Daniel dos Santos Silva",
+        "Jamille Luís Soares",
+        "Mileide Pereira dos Santos"
+      ]
+    },
+    {
+      "nome": "Produção",
+      "participantes": [
+        "Leticia dos Santos Belo",
+        "Raiane Jamile Domingos Torres",
+        "Ana Luiza Lima da Conceição de Jesus"
+      ]
+    },
+    {
+      "nome": "Edição",
+      "participantes": [
+        "Hélder Rocha dos Santos"
+      ]
+    },
+    {
+      "nome": "Programação",
+      "participantes": [
+        "Keline Rosa Pina de Jesus",
+        "Daniel Felipe Santos Bispo",
+        "Gabriel Mariano Heleno doa Santos",
+        "Ezequias Emanuell Araujo dos Santos"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "titulo": "Músicas",
+      "nomes": [
+        "Chao do Pife",
+        "Bandinha de Pífano de Jequiá",
+        "Mané do Rosário de Poxim"
+      ]
+    },
+    {
+      "titulo": "Imagens de Drone",
+      "nomes": [
+        "PJM Drone ",
+        "Imagens Brasil Sul "
+      ]
+    },
+    {
+      "titulo": "Imagens Subaquáticas",
+      "nomes": [
+        "Adair Ribeiro Jr",
+        "Genivaldo Rodrigues"
+      ]
+    },
+    {
+      "titulo": "Motorista",
+      "nomes": [
+        "Marcos Antonio",
+        "Paulista"
+      ]
+    },
+    {
+      "titulo": "Apoio aos cuidados da casa e alimentação",
+      "nomes": [
+        "Vera Lucia dos Santos"
+      ]
+    }
+  ],
+  "agradecimentos": [
+    {
+      "nomes": [
+        "Prefeitura de Jequiá da Praia",
+        "Secretaria de Cultura na pessoa de Paulo César L. da Silva",
+        "Secretaria de Turismo na pessoa de Rafael Antenor Matias dos Santos",
+        "Secretaria de Educação na pessoa de Monalisa Albuquerque Barros Curvello",
+        "Escola municipal Maria Lopes Bertoldo na pessoa de Fernando Antonio Angelo da Silva Junior",
+        "Secretaria de Transporte e trânsito urbano na pessoa de Victor de Goes Dourado Gomes"
+      ]
+    },
+    {
+      "titulo": "Aos agentes culturais que facilitaram e acolheram tão bem a equipe do projeto",
+      "nomes": [
+        "Carlos Daniel dos Santos Silva",
+        "Joyce Kelly"
+      ]
+    },
+    {
+      "titulo": "Equipe Escola Maria Lopes Bertoldo",
+      "nomes": [
+        "Maria Claudete Ferreira da Silva",
+        "Adenilda Quintino de Jesus"
+      ]
+    },
+    {
+      "titulo": "Equipe Prefeitura",
+      "nomes": [
+        "Carlos Daniel dos Santos Silva",
+        "Joyce Kelly",
+        "Mariane Rodrigues",
+        "Ana Paula da Silva"
+      ]
+    },
+    {
+      "titulo": "Desenvolvimento de metodologia",
+      "nomes": [
+        "Amanda Moa",
+        "Evelyn Gomes",
+        "Eduardo Liron",
+        "Glauber Xavier"
+      ]
+    },
+    {
+      "titulo": "Produção",
+      "nomes": [
+        "Renata Czarny"
+      ]
+    }
+  ]
+}
