@@ -4,5 +4,5 @@
   <p><b>Alagoas no Mapa</b> &eacute; um projeto que estimula a cultura de
     colabora&ccedil;&atilde;o e participa&ccedil;&atilde;o em meios digitais nos
     munic&iacute;pios alagoanos.<br /><br />
-    Na primeira etapa, Entre Lagoas, os municípios visitados foram <a href="/coqueiroseco">Coqueiro Seco</a> e <a href="/jequiadapraia">Jequiá da Praia</a>.</p>
+    Na primeira etapa, Entre Lagoas, os municípios visitados foram <a href="/coqueiroseco">Coqueiro Seco</a>, <a href="/jequiadapraia">Jequiá da Praia</a> e <a href="/marechaldeodoro">Marechal Deodoro</a>.</p>
 </div>
