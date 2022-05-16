@@ -23,6 +23,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@beyonk/async-script-loader": "^2.2.1",
     "@beyonk/svelte-google-analytics": "^2.6.0",
     "@fontsource/fira-mono": "^4.5.0",
     "@iconify/svelte": "^2.2.1",
