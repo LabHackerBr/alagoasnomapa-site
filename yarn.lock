@@ -23,6 +23,11 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
+"@beyonk/svelte-google-analytics@^2.6.0":
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/@beyonk/svelte-google-analytics/-/svelte-google-analytics-2.6.0.tgz#62313e308ebec4ee6e18fdf630684300cbd23ac5"
+  integrity sha512-CahGrtrA+wGp3KIixigrR28hbi5H9kIyGjYYx6+41zJoZnNN0YUAzlI2PLb5AcjH3b1/hhmWkXV2o1wabtE8Bw==
+
 "@fontsource/fira-mono@^4.5.0":
   version "4.5.7"
   resolved "https://registry.yarnpkg.com/@fontsource/fira-mono/-/fira-mono-4.5.7.tgz#6daaece154ca81d000762e19beb723fbb9e1328a"

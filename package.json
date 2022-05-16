@@ -23,6 +23,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@beyonk/svelte-google-analytics": "^2.6.0",
     "@fontsource/fira-mono": "^4.5.0",
     "@iconify/svelte": "^2.2.1",
     "@lukeed/uuid": "^2.0.0",
