@@ -1,5 +1,5 @@
 <script lang="ts" context="module">
-  import { GoogleAnalytics } from '@beyonk/svelte-google-analytics' 
+  import { GoogleAnalytics } from '@beyonk/svelte-google-analytics'
   import type { Load } from "@sveltejs/kit"
 
   export const load: Load = async ({ url }) => {
