@@ -1,12 +1,38 @@
-# Alagoas no Mapa
+# create-svelte
 
-Alagoas no Mapa é um projeto que estimula a cultura de colaboração e participação em meios digitais nos municípios alagoanos, com o objetivo de mapear territórios físicos e afetivos e possibilitando que existam mais informações sobre Alagoas na rede (internet), incentivando a autonomia e o protagonismo social dos cidadãos, principalmente da juventude – convertendo-se em benefícios para a sociedade e para o desenvolvimento sociocultural local.
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-Oficinas realizadas: 
-* Fotografia - Amanda Moa 
-* Edição de imagens e som - Glauber Xavier 
-* Atuação para redes sociais - Elaine Lima 
-* Internet - Eduardo Liron 
-* Edição de texto - Renata Czarny 
-* Vídeo - Danilo do Carmo 
-* Produção Cultural - Evelyn Gomes 
+## Creating a project
+
+If you're seeing this, you've probably already done this step. Congrats!
+
+```bash
+# create a new project in the current directory
+npm create svelte@latest
+
+# create a new project in my-app
+npm create svelte@latest my-app
+```
+
+## Developing
+
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+
+```bash
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
+
+## Building
+
+To create a production version of your app:
+
+```bash
+npm run build
+```
+
+You can preview the production build with `npm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.

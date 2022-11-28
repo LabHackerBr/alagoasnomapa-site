@@ -3,61 +3,25 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: 'Raleway';
-  font-weight: 400;
-  src: url('/fonts/raleway-regular.eot');
-  src: local('raleway-heavy'), url('/fonts/raleway-regular.woff') format('woff'), url('/fonts/raleway-regular.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Raleway';
-  font-weight: 900;
-  src: url('/fonts/raleway-heavy.eot');
-  src: local('raleway-heavy'), url('/fonts/raleway-heavy.woff') format('woff'), url('/fonts/raleway-heavy.ttf') format('truetype');
-}
-
-html,
-body,
-#app {
-  @apply w-full h-full;
+  font-family: 'Montserrat';
+  src: local('Montserrat'),
+        url('/fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
 }
 
 body {
-	@apply bg-black text-white;
-
-  font-family: 'Raleway';
+  font-family: 'Montserrat';
+  line-height: 1.3rem;
 }
 
-ol, p {
-  @apply mb-4;
+svg {
+  height: 100%;
+  width: 100%;
 }
 
-h1 {
-  @apply mt-12 text-2xl font-bold uppercase;
-
-  text-shadow: 2px 1px 0px rgb(0, 255, 255), -2px -1px 0px rgb(255,0,255);
+.button {
+  @apply w-full my-1 flex items-center justify-center text-white bg-theme;
 }
 
-h2 {
-  @apply mt-6 lowercase;
-}
-
-h1, h2 {
-  font-weight: 900;
-}
-
-a {
-  @apply w-8 transition-all font-bold;
-}
-
-a:hover  {
-  text-shadow: 2px 1px 0px rgb(0, 255, 255), -2px -1px 0px rgb(255,0,255);
-}
-
-a svg {
-  @apply transition-all;
-}
-
-a:hover svg {
-  filter: drop-shadow(2px 1px 0px rgb(0, 255, 255)) drop-shadow(-2px -1px 0px rgb(255, 0, 255));
+.button:hover {
+  @apply bg-theme-dark;
 }

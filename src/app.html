@@ -1,22 +1,12 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<meta name="description" content="Alagoas no Mapa" />
-		<link rel="icon" href="%svelte.assets%/favicon.png" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		%svelte.head%
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+		<meta name="viewport" content="width=device-width" />
+		%sveltekit.head%
 	</head>
 	<body>
-		<div id="app">%svelte.body%</div>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-M0HYZ2EDWDD"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-                window.dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'G-M0HYZ2EDWD');
-    </script>
+		<div style="display: contents">%sveltekit.body%</div>
 	</body>
 </html>
