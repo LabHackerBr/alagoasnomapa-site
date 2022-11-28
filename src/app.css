@@ -19,7 +19,7 @@ svg {
 }
 
 .button {
-  @apply w-full my-1 flex items-center justify-center text-white bg-theme;
+  @apply w-full mb-2 flex items-center justify-center text-white bg-theme;
 }
 
 .button:hover {

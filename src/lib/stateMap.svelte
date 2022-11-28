@@ -13,6 +13,7 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	x="0px"
 	y="0px"
+  preserveAspectRatio="xMidYMid meet"
 	viewBox="0 0 1016.4 546.2"
 	style="enable-background:new 0 0 1016.4 546.2;"
 	xml:space="preserve"

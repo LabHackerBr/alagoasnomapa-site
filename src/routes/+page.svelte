@@ -16,7 +16,7 @@
       Conheça os Trabalhos
     </a>
     <button class="button text-sm py-2 md:ml-3">
-      Sobre o Projetos
+      Sobre o Projeto
     </button>
   </div>
 </div>

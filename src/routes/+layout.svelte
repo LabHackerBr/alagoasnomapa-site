@@ -7,7 +7,7 @@
 
 <div class="w-screen h-screen flex flex-col">
 	<MainMenu />
-	<main class="flex-grow bg-theme-gray portrait:bg-transparent">
+	<main class="flex-grow bg-theme-gray portrait:bg-transparent relative">
 		<slot />
 	</main>
 	<Logos />
