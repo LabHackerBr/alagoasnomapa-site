@@ -142,13 +142,13 @@
       "src/routes/teste/+page.svelte"
     ]
   },
-  "src/routes/teste/+page.css": {
-    "file": "_app/immutable/assets/_page-a5682ee0.css",
-    "src": "src/routes/teste/+page.css"
-  },
   "src/routes/cidades/+page.css": {
     "file": "_app/immutable/assets/_page-92e40f4c.css",
     "src": "src/routes/cidades/+page.css"
+  },
+  "src/routes/teste/+page.css": {
+    "file": "_app/immutable/assets/_page-a5682ee0.css",
+    "src": "src/routes/teste/+page.css"
   },
   "src/routes/+layout.css": {
     "file": "_app/immutable/assets/_layout-a2c216c6.css",
