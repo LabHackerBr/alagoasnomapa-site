@@ -11,9 +11,9 @@ const config = {
 		adapter: adapter({
 			pages: "docs",
 			assets: "docs",
-      fallback: 'index.html'
+      fallback: '404.html'
 		}),
-    appDir: 'internal'
+    appDir: 'app'
 	},
 
   preprocess: preprocess({
