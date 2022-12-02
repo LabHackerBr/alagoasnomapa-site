@@ -16,11 +16,9 @@ const config = {
     appDir: 'internal'
 	},
 
-  preprocess: [
-    preprocess({
-      postcss: true,
-    }),
-  ],
+  preprocess: preprocess({
+    postcss: true,
+  }),
 }
 
 export default config
