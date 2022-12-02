@@ -11,7 +11,7 @@
   const closeMenu = () => menuOpen = false
 </script>
 
-{#if $page.url.pathname !== '/'}
+{#if $page.url.pathname !== '/' && $page.url.pathname !== '/teste'}
 <header
   transition:fly={{y: -80}}
   class="flex h-20 p-4">

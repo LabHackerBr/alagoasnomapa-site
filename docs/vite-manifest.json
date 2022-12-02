@@ -1,6 +1,6 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "app/immutable/start-17e1ec3e.js",
+    "file": "app/immutable/start-f92b9a0c.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -18,7 +18,7 @@
     ]
   },
   "src/routes/+layout.svelte": {
-    "file": "app/immutable/components/pages/_layout.svelte-8a5505dc.js",
+    "file": "app/immutable/components/pages/_layout.svelte-cc6f0237.js",
     "src": "src/routes/+layout.svelte",
     "isEntry": true,
     "imports": [
@@ -103,7 +103,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/0.js": {
-    "file": "app/immutable/chunks/0-5721506e.js",
+    "file": "app/immutable/chunks/0-ff5ef7f6.js",
     "src": ".svelte-kit/generated/nodes/0.js",
     "isDynamicEntry": true,
     "imports": [
@@ -150,9 +150,9 @@
       "src/routes/teste/+page.svelte"
     ]
   },
-  "src/routes/teste/+page.css": {
+  "src/routes/+page.css": {
     "file": "app/immutable/assets/_page-a5682ee0.css",
-    "src": "src/routes/teste/+page.css"
+    "src": "src/routes/+page.css"
   },
   "src/routes/cidades/+page.css": {
     "file": "app/immutable/assets/_page-92e40f4c.css",
