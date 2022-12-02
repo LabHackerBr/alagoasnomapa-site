@@ -8,7 +8,8 @@ module.exports = {
           DEFAULT: '#0593A2',
           'dark': '#036671',
           'secondary': '#F25C69',
-          'gray': '#E6E6E6'
+          'gray': '#E6E6E6',
+          'darkgray': '#525252'
         }
       },
       screens: {

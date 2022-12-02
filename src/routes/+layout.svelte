@@ -5,7 +5,7 @@
 	import '../app.css';
 </script>
 
-<div class="w-screen h-screen flex flex-col">
+<div class="w-screen h-screen flex flex-col overflow-hidden">
 	<MainMenu />
 	<main class="flex-grow bg-theme-gray portrait:bg-transparent relative">
 		<slot />

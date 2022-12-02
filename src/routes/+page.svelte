@@ -12,12 +12,7 @@
     </p>
   </div>
   <div style="grid-area: b;" class="buttons flex-col px-6 md:flex-row md:mr-3 portrait:px-0">
-    <a href="/cidades" class="button text-sm py-2 portrait:py-6">
-      Conheça os Trabalhos
-    </a>
-    <button class="button text-sm py-2 md:ml-3">
-      Sobre o Projeto
-    </button>
+    EM BREVE
   </div>
 </div>
 
