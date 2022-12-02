@@ -1,8 +1,10 @@
 <script>
-	import Logos from '$lib/logos.svelte';
-	import MainMenu from '$lib/mainMenu.svelte';
+	import Logos from '$lib/logos.svelte'
+	import MainMenu from '$lib/mainMenu.svelte'
 
-	import '../app.css';
+  export const ssr = false
+
+	import '../app.css'
 </script>
 
 <div class="w-screen h-screen flex flex-col overflow-hidden">
