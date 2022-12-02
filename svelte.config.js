@@ -13,7 +13,11 @@ const config = {
 			assets: "docs",
       fallback: 'index.html',
       precompress: false
-		})
+		}),
+    paths: {
+      // change below to your repo name
+      base: dev ? "" : "/alagoasnomapa-site",
+    },
 	},
 
   preprocess: [

@@ -1,4 +1,5 @@
 <script>
+	import { base } from "$app/paths"
 	import { page } from "$app/stores"
   import { navigating } from '$app/stores'
 	import { fly } from "svelte/transition"
@@ -15,7 +16,7 @@
   transition:fly={{y: -80}}
   class="flex h-20 p-4">
   <img
-    src="/imgs/logo_full.svg"
+    src="{base}/imgs/logo_full.svg"
     alt="Alagoas no Mapa" />
 
   <button

@@ -1,7 +1,11 @@
+<script>
+	import { base } from "$app/paths"
+</script>
+
 <div class="w-full h-full grid-layout p-6 portrait:p-0">
   <div class="logo px-6 portrait:self-end">
     <img
-      src="/imgs/logo_full.svg"
+      src="{base}/imgs/logo_full.svg"
       alt="Alagoas no Mapa" />
   </div>
   <div style="grid-area: a;">
