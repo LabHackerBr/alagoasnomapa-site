@@ -1,0 +1,479 @@
+{
+  "name": "Marechal Deodoro",
+  "info": "Cidade banhada pelas lagoas Mundaú e Manguaba que é Patrimônio Histórico Nacional",
+	"slides": [
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"line": true
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": ""
+			},
+			"text": {
+				"headline": "Bem-Vindes a Marechal Deodoro",
+				"text": "<span>Cidade banhada pelas lagoas Mundaú e Manguaba que é Patrimônio Histórico Nacional</span>"
+			},
+			"type": "overview"
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"lat": -9.723746,
+				"line": true,
+				"lon": -35.811937,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://vimeo.com/699552073"
+			},
+			"text": {
+				"headline": "Barra Nova",
+				"text": "<span>Povoado de Marechal Deodoro conhecido principalmente pela Prainha.</span><br><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"lat": -9.737749988648028,
+				"line": true,
+				"lon": -35.83440863936334,
+				"zoom": 20
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://www.flickr.com/photos/195400239@N08/52004563469/"
+			},
+			"text": {
+				"headline": "Drive Cocada Cultura",
+				"text": "<span>Espaço destinado para as cocadeiras da Massagueira venderem seus produtos em segurança, já que antes elas vendiam na beira da pista.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"lat": -9.77106,
+				"line": true,
+				"lon": -35.842126,
+				"zoom": 17
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://vimeo.com/699577084"
+			},
+			"text": {
+				"headline": "Vila dos Pescadores (S. Moisés)",
+				"text": "<span>Seu Moisés é pescador e nativo da Praia do Francês, de onde se considera um dos fundadores também por sua descendência portuguesa. Apaixonado pela praia, ele cuida da vila dos pescadores varrendo as ruas e zelando pelo local. </span><br><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/52004388224_b45ce2a3b8_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"lat": -9.732929607290007,
+				"line": true,
+				"lon": -35.891279787343535,
+				"zoom": 16
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://www.flickr.com/photos/195400239@N08/52003111427/"
+			},
+			"text": {
+				"headline": "Igreja N S do Bonfim",
+				"text": "<span>Primeira igreja católica da cidade.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/52004388664_4c42f2cac6_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"lat": -9.720796746807139,
+				"line": true,
+				"lon": -35.895239618003075,
+				"zoom": 15
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://www.flickr.com/photos/195400239@N08/52003110962/"
+			},
+			"text": {
+				"headline": "Igreja N S da Conceição",
+				"text": "<span>Igreja matriz, onde fica a padroeira da cidade.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"lat": -9.720796746807139,
+				"line": true,
+				"lon": -35.895239618003075,
+				"zoom": 17
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://www.flickr.com/photos/195400239@N08/52004388049/"
+			},
+			"text": {
+				"headline": "Filarmonica Santa Cecília",
+				"text": "<span>Filarmônica mais antiga do estado de Alagoas em atividade, com 111 anos de fundação.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/Banda pifano.jpg"
+			},
+			"date": "",
+			"location": {
+				"lat": -9.717585346333397,
+				"line": true,
+				"lon": -35.89545856035891,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://vimeo.com/699530291"
+			},
+			"text": {
+				"headline": "Banda de Pífano (Matriz)",
+				"text": "<span>Grupo que anda pelas ruas das cidades pedindo ajuda através da arte.</span><br><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/antiga cadeia.jpg"
+			},
+			"date": "",
+			"location": {
+				"lat": -9.72000437154396,
+				"line": true,
+				"lon": -35.895533202659024,
+				"zoom": 15
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://www.flickr.com/photos/195400239@N08/52004562579/"
+			},
+			"text": {
+				"headline": "Casa da Câmara e Antiga Cadeia",
+				"text": "<span>Construção do século 19 que primeiramente foi um armazém de sal, mas também já funcionou como Casa da Câmara e como cadeia. Atualmente sedia a Secretaria de Cultura do município de Marechal Deodoro.</span><br><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/colonial.jpg"
+			},
+			"date": "",
+			"location": {
+				"lat": -9.719429072606925,
+				"line": true,
+				"lon": -35.89406930193232,
+				"zoom": 17
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://www.flickr.com/photos/195400239@N08/52003111547/"
+			},
+			"text": {
+				"headline": "Colônia dos Pescadores",
+				"text": "<span>Associação que representa os pescadores.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100,
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/ponte.jpg"
+			},
+			"date": "",
+			"location": {
+				"lat": -9.716847,
+				"line": true,
+				"lon": -35.892266,
+				"zoom": 19
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://vimeo.com/699519130"
+			},
+			"text": {
+				"headline": "Cais da Lancha",
+				"text": "<span>Ponte usada para embarque e desembarque de passageiros de uma lancha que fazia o trajeto até a capital Maceió.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/52003587567_c1134d2fe0_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"lat": -9.712767,
+				"line": true,
+				"lon": -35.891948,
+				"zoom": 17
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://www.flickr.com/photos/195400239@N08/52004895204/"
+			},
+			"text": {
+				"headline": "Mucuri",
+				"text": "<span>Estabelecimento culinário com uma nova proposta de ambiente gastronômico e cultural para o centro histórico de Marechal Deodoro.</span><br><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/centro.jpg"
+			},
+			"date": "",
+			"location": {
+				"lat": -9.716689,
+				"line": true,
+				"lon": -35.89388,
+				"zoom": 13
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://www.flickr.com/photos/195400239@N08/52003394227/"
+			},
+			"text": {
+				"headline": "Centro Histórico",
+				"text": "<span>Local onde predomina a arquitetura preservada desde a época da colonização.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/Mercado das Rendas e Bordados.jpg"
+			},
+			"date": "",
+			"location": {
+				"lat": -9.715605157103187,
+				"line": true,
+				"lon": -35.8938965732735,
+				"zoom": 14
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://www.flickr.com/photos/195400239@N08/52003111392/"
+			},
+			"text": {
+				"headline": "Mercado das Rendas e Bordados",
+				"text": "<span>Ponto comercial atribuído para as rendeiras da cidade.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/filarmonica carlos gomes.jpg"
+			},
+			"date": "",
+			"location": {
+				"lat": -9.720458873441684,
+				"line": true,
+				"lon": -35.89559691803075,
+				"zoom": 20
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://www.flickr.com/photos/195400239@N08/52004657035/"
+			},
+			"text": {
+				"headline": "Filarmonica Carlos Gomes",
+				"text": "<span>Segunda filarmônica mais antiga da cidade, atualmente com 106 anos de fundação.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"lat": -9.717585346333397,
+				"line": true,
+				"lon": -35.89545856035891,
+				"zoom": 19
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://www.flickr.com/photos/195400239@N08/52004193508/"
+			},
+			"text": {
+				"headline": "Casas em risco de desabamento",
+				"text": "<span>Estruturas do século 17 que estão caindo por falta de restauração.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"lat": -9.716764399882639,
+				"line": true,
+				"lon": -35.8924618179767,
+				"zoom": 17
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://vimeo.com/699517948"
+			},
+			"text": {
+				"headline": "Nova Orla Lagunar",
+				"text": "<span>Reurbanização de uma pequena vila às margens da lagoa, que costumava sofrer com as chuvas e marés cheias. </span><br><br>"
+			}
+		}
+	],
+  "creditos": [
+    {
+      "section": "oficinas",
+      "values" : [
+        {
+          "title": "Vídeo",
+          "names": [
+            "Delanisson de Araújo Pereira"
+          ]
+        },
+        {
+          "title": "Fotografia",
+          "names": [
+            "João Pedro dos Santos",
+            "Gabriel Nunes Xavier",
+            "Gustavo Henrique dos Santos"
+          ]
+        },
+        {
+          "title": "Atuação para Redes Sociais",
+          "names": [
+            "Franklin Lisboa de Lima",
+            "Nalbert Norberto dos Santos"
+          ]
+        },
+        {
+          "title": "Produção",
+          "names": [
+            "Nalbert Norberto dos Santos",
+            "Edmar de Castro Neto",
+            "Franklin Lisboa de Lima",
+            "Gustavo Henrique dos Santos",
+            "Delanisson de Araújo Pereira"
+          ]
+        },
+        {
+          "title": "Edição",
+          "names": [
+            "João Vitor Santos da Silva",
+            "Francisco Nunes Xavier"
+          ]
+        },
+        {
+          "title": "Programação",
+          "names": [
+            "Francisco Nunes Xavier",
+            "Gabriel Larramendi"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "extras",
+      "values" : [
+        {
+          "title": "Músicas",
+          "names": [
+            "Mestre José Cícero e Banda Esqueta Muiẽ",
+            "Filarmônica Santa Cecília",
+            "Nelson da Rabeca"
+          ]
+        },
+        {
+          "title": "Motorista",
+          "names": [
+            "Marcos Antonio"
+          ]
+        },
+        {
+          "title": "Apoio aos cuidados da casa e alimentação",
+          "names": [
+            "Vera Lucia dos Santos"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "agradecimentos",
+      "values" : [
+        {
+          "title": "",
+          "names": [
+            "IFAL - Campus Marechal Deodoro"
+          ]
+        },
+        {
+          "title": "Equipe IFAL",
+          "names": [
+            "Acássia Deliê"
+          ]
+        },
+        {
+          "title": "Desenvolvimento de metodologia",
+          "names": [
+            "Amanda Moa",
+            "Evelyn Gomes",
+            "Eduardo Liron",
+            "Glauber Xavier"
+          ]
+        },
+        {
+          "title": "Produção",
+          "names": [
+            "Renata Czarny"
+          ]
+        }
+      ]
+    }
+  ]
+}

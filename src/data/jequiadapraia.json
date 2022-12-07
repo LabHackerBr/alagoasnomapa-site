@@ -1,0 +1,873 @@
+{
+  "name": "Jequiá da Praia",
+  "info": "O município com a terceira maior lagoa do Brasil",
+	"slides": [
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995170986_76e2051373_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"line": true
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://vimeo.com/697906316"
+			},
+			"text": {
+				"headline": "Bem-Vindes a Jequiá da Praia",
+				"text": "O município com a terceira maior lagoa do Brasil."
+			},
+			"type": "overview"
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -9.96793,
+				"line": true,
+				"lon": -35.97724,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://vimeo.com/697944659"
+			},
+			"text": {
+				"headline": "Passeio pela História de Jequiá",
+				"text": "<span>Trajeto do início de Jequiá da Praia até o Campo da Lagoa.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100,
+				"url": ""
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -9.96307,
+				"line": true,
+				"lon": -35.97346,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://www.flickr.com/photos/195400239@N08/51995830029/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Praia da Lagoa Azeda",
+				"text": "<div><span>A praia de Lagoa Azeda fica localizada no povoado de mesmo title, no município de Jequiá da Praia. É ponto de concentração da pesca marinha da região. Lá também acontece, anualmente, no mês de outubro, a peregrinação de São Sebastião. <br></span></div><div><br><span></span></div>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -9.96608355572431,
+				"line": true,
+				"lon": -35.98319405391994,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "https://vimeo.com/saudaveissubversivos",
+				"url": "https://vimeo.com/697912100"
+			},
+			"text": {
+				"headline": "Naufrágio do Itapajé",
+				"text": "}<span>A 25&nbsp;km de profundidade no mar, existe o navio naufragado após bombardeio no período da 2.ª guerra mundial. O local ainda é visitado por mergulhadores e pescadores da região, que recolhem materiais das cargas que o navio carregava.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -9.96793,
+				"line": true,
+				"lon": -35.97724,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://vimeo.com/697941483"
+			},
+			"text": {
+				"headline": "Tingui: O Mistério da Lagoa Azeda",
+				"text": "<span>No povoado de Lagoa Azeda ronda o mistério do Tingui, flor que se abre nas pedras conhecidas como baixas, exala um cheiro de peixe podre e causa uma doença desconhecida. Com isso, a população do povoado migra para os ranchos.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100,
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51993917352_a805b8809a_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.013555,
+				"line": true,
+				"lon": -36.022995,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://vimeo.com/697969673"
+			},
+			"text": {
+				"headline": "Empório Caxangá",
+				"text": "<div><span>Eliana Reis tem 57 anos, é artesã nascida e criada em Jequiá da Praia. Faz artesanato desde os 12 anos. Suas artes são produzidas com matérias-primas como papelão, casco de coco, fibra de bananeira e outros.</span></div><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51993919662_293361b624_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -9.95647,
+				"line": true,
+				"lon": -36.02304,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia: Renan Carvalho",
+				"url": "https://www.flickr.com/photos/195400239@N08/51995196529/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Igreja Matriz Nossa Senhora do Pilar",
+				"text": "<div><span>A Igreja Matriz Nossa Senhora do Pilar, localizada na Rua da Igreja, centro de Jequiá da Praia, Alagoas, tem 260 anos de muita história e tradição. Tem como padroeira Nossa Senhora do Pilar e co-padroeiro o Mártir São Sebastião.<br></span></div><div><br><span></span></div>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995195909_79be0def82_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.012086148955978,
+				"line": true,
+				"lon": -36.02336731130825,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia: Renan Carvalho",
+				"url": "https://www.flickr.com/photos/195400239@N08/51995196024/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Praça José Pacheco",
+				"text": "<span>A Praça José Pacheco está localizada na Rua da Igreja, em frente à Prefeitura Municipal de Jequiá da Praia, Alagoas. É ponto de encontro de jovens e adultos, movimentada principalmente no período da noite, com lanchonetes ao redor.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.04975,
+				"line": true,
+				"lon": -36.031353,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://vimeo.com/697957209"
+			},
+			"text": {
+				"headline": "Artesão Seu Mauro",
+				"text": "<span>Artista que trabalha com madeira talhada com vidro. É possível visitar a loja dele, em Jequiá da Praia, onde além de suas peças ele também comercializa cachaças artesanais produzidas na região.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995192649_3ddd2f6710_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.009341,
+				"line": true,
+				"lon": -36.0239398,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia: Luiz Henrique",
+				"url": "https://www.flickr.com/photos/195400239@N08/51995465365/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Lanchonete da Maria",
+				"text": "<span>Oferece um dos melhores salgados da região há 25 anos, compartilhando sabores únicos de geração a geração.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995196444_7980b11503_o(1).jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.01122,
+				"line": true,
+				"lon": -36.024173,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia: Luiz Henrique",
+				"url": "https://www.flickr.com/photos/195400239@N08/51995191864/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Feira de Jequiá",
+				"text": "<div><span>A Feira Municipal de Jequiá da Praia acontece todo sábado, na parte da manhã, na Rua do Oitizeiro, centro da cidade. Feirantes vendem frutas, verduras, carnes, peixes, temperos, ervas, bolachas, lanches e outros produtos. O local é também um ponto de encontro para a população.<br></span></div><div><br><span></span></div>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.01077,
+				"line": true,
+				"lon": -36.02495,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia: Renan Carvalho",
+				"url": "https://www.flickr.com/photos/195400239@N08/51994982533/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Lanchonete 3 Irmãos",
+				"text": "<span>A Lanchonete 3 irmãos, que tem como dono o jequiaense Erasmo Carlos, começou com um trailer, e agora tem uma ótima estrutura para receber os clientes. Os lanches mais pedidos são o x-burguer e o x-frango. Atende apenas à noite e costuma fechar cedo, por ter muita procura.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995692915_63d7396d27_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.0092481,
+				"line": true,
+				"lon": -36.0242402,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia: Deyvillanne Fidelis",
+				"url": "https://www.flickr.com/photos/195400239@N08/51995462970/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Praça de Eventos Napoleão Martins",
+				"text": "<span>Recém-inaugurada, com espaço para exercícios e diversão para as crianças, a Praça de Multieventos da Orla está localizada ao lado do ginásio poliesportivo José Jarbas de Castro e tem como principal atração a vista para o Rio Jequiá.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.0103585,
+				"line": true,
+				"lon": -36.0213147,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://vimeo.com/697971494"
+			},
+			"text": {
+				"headline": "Rio da Espera",
+				"text": "<span>Localizado na cidade de Jequiá da Praia, o lugar tem rio e a árvore centenária, a mais antiga da região, e o antigo casarão, demolido há anos. É frequentado por moradores em momentos de lazer.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995466200_f919fc2b8b_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.009804909285357,
+				"line": true,
+				"lon": -36.024286595687016,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia: Deyvillanne Fidelis",
+				"url": "https://www.flickr.com/photos/195400239@N08/51994919776/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Rio Jequiá",
+				"text": "<span>Com cerca de 100&nbsp;km, o Rio Jequiá se tornou um dos principais rios de Alagoas. Com nascente localizada em Campo Alegre-AL, entrando na cidade de Jequiá da Praia, forma-se a terceira maior lagoa do estado, desaguando no mar no povoado Barra de Jequiá. Seu principal fenômeno é o encontro com a Laguna Jequiá. Fonte de renda para muitos jequiaenses, pelo turismo, culinária e a pesca, sendo a principal fonte de renda de muitos pescadores.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100,
+				"url": ""
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.04706,
+				"line": true,
+				"lon": -36.02854,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51994984273_3b8a14b0cf_o.jpg"
+			},
+			"text": {
+				"headline": "Trilha dos Caetés",
+				"text": "<span>Passeio subindo as margens do rio, com paradas para acesso a Pedras Grandes, onde é possível ver a linda paisagem de um lado e o mar do outro; seguindo no passeio de barco, pela região dos mangues é possível tomar o rejuvenescedor banho de lama e ver caranguejos. São 16 km de rio e o passeio tem duração de 40 minutos a uma hora</span><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995208673_bcb790d77e_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.01153664813242,
+				"line": true,
+				"lon": -36.026332289140655,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia: Thaysia Marques",
+				"url": "https://www.flickr.com/photos/195400239@N08/51994131947/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Praça José Cassimiro",
+				"text": "<span>A Praça José Cassimiro é um ótimo local para a prática de esportes, com quadra, e também de diversão para as crianças, com um espaço grande para as pessoas curtirem</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100,
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995465605_93fd2a7670_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.01071,
+				"line": true,
+				"lon": -36.026119,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia: Luiz Henrique",
+				"url": "https://www.flickr.com/photos/195400239@N08/51993916672"
+			},
+			"text": {
+				"headline": "Restaurante do Sebal",
+				"text": "<span>Tradicional peixada e petiscaria da região, servindo a famílias e amigos há mais de 20 anos.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100,
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995189994_e27244f07f_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.010216062405373,
+				"line": true,
+				"lon": -36.025783724061895,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia: Renan Carvalho",
+				"url": "https://www.flickr.com/photos/195400239@N08/51995468025/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Restaurante da Grinaura",
+				"text": "<span>Um dos melhores restaurantes para almoços entre família e amigos, com serviço de self-service com gastronomia local e bebidas artesanais da região.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.010266,
+				"line": true,
+				"lon": -36.025702,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://www.flickr.com/photos/195400239@N08/51995196464/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Capela de Santa Cruz",
+				"text": "<span>A Capela Santa Cruz, localizada na Rua Santa Cruz, centro de Jequiá da Praia-AL, tem 144 anos de história. Uma das principais festas realizadas na Capela é a de São João, que acontece em junho.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.0082187,
+				"line": true,
+				"lon": -36.0274935,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia: Luiz Henrique",
+				"url": "https://www.flickr.com/photos/195400239@N08/51994922506/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Capela de Santo Antônio",
+				"text": "<span>A Capela de Santo Antônio, localizada na Rua Santo Antônio, centro de Jequiá da Praia — AL, tem 152 anos de história. A festa do santo, que ocorre em junho, movimenta toda a comunidade e a cidade de Jequiá.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995150656_397bb2e9e6_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.0065814,
+				"line": true,
+				"lon": -36.0272124,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia: Renan Carvalho",
+				"url": "https://www.flickr.com/photos/195400239@N08/51994164757/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Prainha",
+				"text": "<span>Ótimo espaço de lazer e banho para curtir com a família, com o privilégio da proximidade aos manguezais e ao encontro de rio e lagoa.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100,
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51994553612_48eab49206_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.0043118,
+				"line": true,
+				"lon": -36.0278889,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "",
+				"url": "https://www.flickr.com/photos/195400239@N08/51994923451/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Campo da Lagoa",
+				"text": "<div><span>Localizado próximo ao povoado de Ponta de Pedra, dispõe de quadra poliesportiva e é ponto de encontro dos jovens da região.</span></div><div><span><br></span></div>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51994128317_45b20b5962_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.047129,
+				"line": true,
+				"lon": -36.031578,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia: Anaires Galdino",
+				"url": "https://www.flickr.com/photos/195400239@N08/51994973533/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Barra de Jequiá",
+				"text": "<span>A Barra de Jequiá é um encontro de rio e mar, com&nbsp;barracas próximas, frequentadas por turistas e nativos da região. Lá são servidos pratos deliciosos, como petiscos, mariscos, entre outras degustações, como o caldinho de siri, que vem direto da região lagunar.</span><br>"
+			}
+		},
+		{
+			"background": {
+				"color": "#000000",
+				"opacity": 100,
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51994984273_3b8a14b0cf_o(1).jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -10.049938071749887,
+				"line": true,
+				"lon": -36.0315292298187,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia e texto: Renan Carvalho",
+				"url": "https://www.flickr.com/photos/195400239@N08/51994984318/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Artesanato da Barra de Jequiá",
+				"text": "<div><span>Espaço onde artesãos da região expõem e vendem suas artes, como a artesã Vilma Miranda, que vende artesanato há mais de 10 anos na Barra de Jequiá. Ela produz porta-guardanapo com palha de ouricuri, prendedor de cabelo com tecido de viés e porta-agenda feito de palito de picolé.<br></span></div><div><br><span></span></div>"
+			}
+		},
+		{
+			"background": {
+				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995406259_06bb038c33_o.jpg"
+			},
+			"date": "",
+			"location": {
+				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconSize": [
+					48,
+					48
+				],
+				"lat": -9.969521320504679,
+				"line": true,
+				"lon": -36.03621363498817,
+				"use_custom_marker": true,
+				"zoom": 12
+			},
+			"media": {
+				"caption": "",
+				"credit": "Fotografia: Thaysia Marques",
+				"url": "https://www.flickr.com/photos/195400239@N08/51993911132/in/album-72177720298007003/"
+			},
+			"text": {
+				"headline": "Banho das Pedras",
+				"text": "<div><span>Banho das Pedras é um banho de lazer localizado no primeiro povoado depois do centro de Jequiá da Praia, onde várias famílias se reúnem no fim de semana para aproveitar um banho refrescante.<br></span></div><div><br><span></span></div>"
+			}
+		}
+	],
+  "creditos": [
+    {
+      "section": "oficinas",
+      "values": [
+        {
+          "title": "Vídeo",
+          "names": [
+            "Soraya La Brunny dos Santos",
+            "Luis Wellington Tenório da Rocha",
+            "Pietro"
+          ]
+        },
+        {
+          "title": "Fotografia",
+          "names": [
+            "Anaires Galdino da Silva",
+            "Deyvillanne dos Santos Fidelis",
+            "Luiz Henrique Lima da Conceição de Jesus",
+            "Renan Santos de Carvalho",
+            "Thaysia Marques dos Santos"
+          ]
+        },
+        {
+          "title": "Atuação para Redes Sociais",
+          "names": [
+            "Rosane da Conceição Pereira",
+            "Carlos Daniel dos Santos Silva",
+            "Jamille Luís Soares",
+            "Mileide Pereira dos Santos"
+          ]
+        },
+        {
+          "title": "Produção",
+          "names": [
+            "Leticia dos Santos Belo",
+            "Raiane Jamile Domingos Torres",
+            "Ana Luiza Lima da Conceição de Jesus"
+          ]
+        },
+        {
+          "title": "Edição",
+          "names": [
+            "Hélder Rocha dos Santos"
+          ]
+        },
+        {
+          "title": "Programação",
+          "names": [
+            "Keline Rosa Pina de Jesus",
+            "Daniel Felipe Santos Bispo",
+            "Gabriel Mariano Heleno doa Santos",
+            "Ezequias Emanuell Araujo dos Santos"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "extras",
+      "values": [
+        {
+          "title": "Músicas",
+          "names": [
+            "Chao do Pife",
+            "Bandinha de Pífano de Jequiá",
+            "Mané do Rosário de Poxim"
+          ]
+        },
+        {
+          "title": "Imagens de Drone",
+          "names": [
+            "PJM Drone ",
+            "Imagens Brasil Sul "
+          ]
+        },
+        {
+          "title": "Imagens Subaquáticas",
+          "names": [
+            "Adair Ribeiro Jr",
+            "Genivaldo Rodrigues"
+          ]
+        },
+        {
+          "title": "Motorista",
+          "names": [
+            "Marcos Antonio",
+            "Paulista"
+          ]
+        },
+        {
+          "title": "Apoio aos cuidados da casa e alimentação",
+          "names": [
+            "Vera Lucia dos Santos"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "agradecimentos",
+      "values": [
+        {
+          "title": "",
+          "names": [
+            "Prefeitura de Jequiá da Praia",
+            "Secretaria de Cultura na pessoa de Paulo César L. da Silva",
+            "Secretaria de Turismo na pessoa de Rafael Antenor Matias dos Santos",
+            "Secretaria de Educação na pessoa de Monalisa Albuquerque Barros Curvello",
+            "Escola municipal Maria Lopes Bertoldo na pessoa de Fernando Antonio Angelo da Silva Junior",
+            "Secretaria de Transporte e trânsito urbano na pessoa de Victor de Goes Dourado Gomes"
+          ]
+        },
+        {
+          "title": "Aos agentes culturais que facilitaram e acolheram tão bem a equipe do projeto",
+          "names": [
+            "Carlos Daniel dos Santos Silva",
+            "Joyce Kelly"
+          ]
+        },
+        {
+          "title": "Equipe Escola Maria Lopes Bertoldo",
+          "names": [
+            "Maria Claudete Ferreira da Silva",
+            "Adenilda Quintino de Jesus"
+          ]
+        },
+        {
+          "title": "Equipe Prefeitura",
+          "names": [
+            "Carlos Daniel dos Santos Silva",
+            "Joyce Kelly",
+            "Mariane Rodrigues",
+            "Ana Paula da Silva"
+          ]
+        },
+        {
+          "title": "Desenvolvimento de metodologia",
+          "names": [
+            "Amanda Moa",
+            "Evelyn Gomes",
+            "Eduardo Liron",
+            "Glauber Xavier"
+          ]
+        },
+        {
+          "title": "Produção",
+          "names": [
+            "Renata Czarny"
+          ]
+        }
+      ]
+    }
+  ]
+}

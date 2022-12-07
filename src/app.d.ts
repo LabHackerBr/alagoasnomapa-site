@@ -7,3 +7,48 @@ declare namespace App {
 	// interface Error {}
 	// interface Platform {}
 }
+
+interface currentTime {
+  duration: number
+  percent: number
+  seconds: number
+}
+
+interface currentCity { city: cidade }
+
+interface cidade {
+  name: string
+  info: string
+  slides: slide[]
+  creditos: credit[]
+}
+
+interface slide {
+  background: {
+    url?: string
+    color?: string,
+		opacity?: number
+  },
+  date: string,
+  location: {
+    line: boolean
+  },
+  media: {
+    caption: string,
+    credit: string,
+    url: string
+  },
+  text: {
+    headline: string,
+    text: string
+  },
+  type: string
+}
+
+interface credit {
+  section: string
+  values: {
+    title: string
+    names: string[]
+  }[]
+}

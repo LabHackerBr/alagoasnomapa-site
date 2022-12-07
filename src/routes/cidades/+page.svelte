@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths'
   import Statemap from '$lib/stateMap.svelte'
 </script>
 
@@ -7,17 +8,17 @@
     <Statemap />
   </div>
   <div class="flex-grow flex flex-col lg:hidden pr-2 portrait:pr-0">
-    <button class="button text-sm py-2 md:ml-3 mt-2">
+    <a href="{base}/cidades/coqueiroseco" class="button text-sm py-2 md:ml-3 mt-2">
       Coqueiro Seco
-    </button>
-    <button class="button text-sm py-2 md:ml-3">
+    </a>
+    <a href="{base}/cidades/jequiadapraia" class="button text-sm py-2 md:ml-3">
       Jequiá da Praia
-    </button>
-    <button class="button text-sm py-2 md:ml-3">
+    </a>
+    <a href="{base}/cidades/marechaldeodoro" class="button text-sm py-2 md:ml-3">
       Marechal Deodoro
-    </button>
-    <button class="button text-sm py-2 md:ml-3 mt-auto">
+    </a>
+    <a href="{base}/sobre" class="button text-sm py-2 md:ml-3 mt-auto">
       Sobre o Projeto
-    </button>
+    </a>
   </div>
 </div>

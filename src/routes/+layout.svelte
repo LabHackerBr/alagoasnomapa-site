@@ -1,7 +1,8 @@
 <script>
+  import { page } from "$app/stores"
 	import Logos from '$lib/logos.svelte'
 	import MainMenu from '$lib/mainMenu.svelte'
-  
+
   export const prerender = true
 
 	import '../app.css'
@@ -12,5 +13,9 @@
 	<main class="flex-grow bg-theme-gray portrait:bg-transparent relative">
 		<slot />
 	</main>
-	<Logos />
+  {#if !$page.params.hasOwnProperty('cidade')}
+  <footer class="flex justify-center flex-wrap my-4">
+    <Logos />
+  </footer>
+  {/if}
 </div>
