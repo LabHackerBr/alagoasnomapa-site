@@ -4,6 +4,6 @@
   $: currentSlide = $page.params.slide || 0
 </script>
 
-<section class="w-full h-full flex items-center justify-center">
+<section class="w-full h-full">
   <slot />
 </section>

@@ -4,16 +4,15 @@
 
 	const emit = createEventDispatcher()
 
-	export let id: string
-  export let key: string
+	export let url: string
   export let autoplay = false
   export let loop = false
   export let ended = false
 
-  $: id, loadVideo()
+  $: url, loadVideo()
 
   let options = {
-    url: `https://player.vimeo.com/video/${id}${key ? '?h=' + key : ''}`,
+    url: url,
     autoplay: autoplay,
     loop: loop,
     muted: false,

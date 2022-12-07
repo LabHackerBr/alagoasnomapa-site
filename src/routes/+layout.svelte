@@ -8,9 +8,9 @@
 	import '../app.css'
 </script>
 
-<div class="w-screen h-screen flex flex-col overflow-hidden">
+<div class="relative w-screen h-screen flex flex-col overflow-hidden">
 	<MainMenu />
-	<main class="flex-grow bg-theme-gray portrait:bg-transparent relative">
+	<main class="flex-grow bg-theme-gray portrait:bg-transparent relative overflow-y-auto">
 		<slot />
 	</main>
   {#if !$page.params.hasOwnProperty('cidade')}
