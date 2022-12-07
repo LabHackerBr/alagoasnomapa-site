@@ -8,7 +8,11 @@
       },
       "date": "",
       "location": {
-        "line": true
+        "lat": -9.6765595,
+        "line": true,
+        "lon": -35.8296301,
+        "use_custom_marker": true,
+        "zoom": 14
       },
       "media": {
         "caption": "",

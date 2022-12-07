@@ -36,6 +36,9 @@
 	"type": "module",
 	"dependencies": {
 		"@sveltejs/adapter-static": "^1.0.0-next.48",
-		"@vimeo/player": "^2.18.0"
+		"@types/svelte-leafletjs": "^0.8.2",
+		"@vimeo/player": "^2.18.0",
+		"leaflet": "^1.9.3",
+		"svelte-leafletjs": "^0.10.0"
 	}
 }

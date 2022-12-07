@@ -32,6 +32,9 @@ interface slide {
   date: string,
   location: {
     line: boolean
+    lat: number
+    lon: number
+    zoom: number
   },
   media: {
     caption: string,

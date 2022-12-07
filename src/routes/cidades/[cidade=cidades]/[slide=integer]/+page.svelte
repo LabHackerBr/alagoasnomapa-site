@@ -1,13 +1,30 @@
 <script lang="ts">
+  import { browser } from '$app/environment'
+	import { onMount } from 'svelte'
   import { page } from "$app/stores"
 	import { base } from "$app/paths"
   import VimeoPlayer from '$lib/vimeoPlayer.svelte'
+
+  let LeafletContainer
+
+  onMount(async () => {
+		if (browser) {
+			LeafletContainer = (await import('$lib/map.svelte')).default;
+		}
+	})
 
   export let data: currentCity
   $: currentSlide = parseInt($page.params.slide)
 </script>
 
-<article class="flex flex-col text-center min-h-full">
+<div class="w-full h-full">
+  {#if browser}
+  <svelte:component this={LeafletContainer} mapData={data.city.slides} />
+  {/if}
+</div>
+
+<article class="absolute w-full h-full flex flex-col text-center min-h-full
+                top-0 z-[1000] bg-white bg-opacity-30">
   <div class="flex p-3 bg-theme-gray">
     {#if currentSlide > 1}
     <a
@@ -33,9 +50,9 @@
     {/if}
   </div>
   <div class="p-3">
-  {#if data.city.slides[currentSlide].media.url !== ""}
-    <VimeoPlayer url={data.city.slides[currentSlide].media.url} autoplay />
-  {/if}
-    <p class="bg-theme-gray py-3">{@html data.city.slides[currentSlide].text.text}</p>
+    {#if data.city.slides[currentSlide].media.url !== ""}
+      <VimeoPlayer url={data.city.slides[currentSlide].media.url} autoplay />
+    {/if}
+    <!-- <p class="bg-theme-gray py-3">{@html data.city.slides[currentSlide].text.text}</p> -->
   </div>
 </article>
