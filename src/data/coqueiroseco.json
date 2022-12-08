@@ -10,7 +10,7 @@
         "zoom": 14
       },
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -27,7 +27,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -52,7 +52,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -77,7 +77,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -102,7 +102,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -127,7 +127,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -152,7 +152,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -177,7 +177,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -202,7 +202,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -227,7 +227,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -252,7 +252,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -277,7 +277,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -302,7 +302,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -327,7 +327,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -352,7 +352,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -377,7 +377,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -402,7 +402,7 @@
     },
     {
       "icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -426,7 +426,7 @@
       }
     }
   ],
-  "creditos": [
+  "about": [
     {
       "section": "oficinas",
       "values": [

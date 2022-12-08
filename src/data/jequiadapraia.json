@@ -4,7 +4,7 @@
 	"slides": [
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -29,7 +29,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -44,7 +44,7 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995830029/in/album-72177720298007003/",
+				"url": "jequia0.jpg",
         "type": "image"
 			},
 			"text": {
@@ -54,7 +54,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -79,7 +79,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -105,7 +105,7 @@
 		{
 
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -130,7 +130,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -145,7 +145,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Renan Carvalho",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995196529/in/album-72177720298007003/",
+				"url": "jequia1.jpg",
         "type": "image"
 			},
 			"text": {
@@ -155,7 +155,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -170,7 +170,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Renan Carvalho",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995196024/in/album-72177720298007003/",
+				"url": "jequia2.jpg",
         "type": "image"
 			},
 			"text": {
@@ -180,7 +180,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -205,7 +205,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -220,7 +220,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Luiz Henrique",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995465365/in/album-72177720298007003/",
+				"url": "jequia3.jpg",
         "type": "image"
 			},
 			"text": {
@@ -230,7 +230,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -245,7 +245,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Luiz Henrique",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995191864/in/album-72177720298007003/",
+				"url": "jequia4.jpg",
         "type": "image"
 			},
 			"text": {
@@ -255,7 +255,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -270,7 +270,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Renan Carvalho",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994982533/in/album-72177720298007003/",
+				"url": "jequia5.jpg",
         "type": "image"
 			},
 			"text": {
@@ -280,7 +280,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -295,7 +295,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Deyvillanne Fidelis",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995462970/in/album-72177720298007003/",
+				"url": "jequia6.jpg",
         "type": "image"
 			},
 			"text": {
@@ -305,7 +305,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -330,7 +330,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -345,7 +345,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Deyvillanne Fidelis",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994919776/in/album-72177720298007003/",
+				"url": "jequia7.jpg",
         "type": "image"
 			},
 			"text": {
@@ -355,7 +355,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -379,7 +379,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -394,7 +394,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Thaysia Marques",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994131947/in/album-72177720298007003/",
+				"url": "jequia8.jpg",
         "type": "image"
 			},
 			"text": {
@@ -404,7 +404,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -419,7 +419,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Luiz Henrique",
-				"url": "https://www.flickr.com/photos/195400239@N08/51993916672",
+				"url": "jequia9.jpg",
         "type": "image"
 			},
 			"text": {
@@ -429,7 +429,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -444,7 +444,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Renan Carvalho",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995468025/in/album-72177720298007003/",
+				"url": "jequia10.jpg",
         "type": "image"
 			},
 			"text": {
@@ -454,7 +454,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -469,7 +469,7 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995196464/in/album-72177720298007003/",
+				"url": "jequia11.jpg",
         "type": "image"
 			},
 			"text": {
@@ -479,7 +479,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -494,7 +494,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Luiz Henrique",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994922506/in/album-72177720298007003/",
+				"url": "jequia12.jpg",
         "type": "image"
 			},
 			"text": {
@@ -504,7 +504,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -519,7 +519,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Renan Carvalho",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994164757/in/album-72177720298007003/",
+				"url": "jequia13.jpg",
         "type": "image"
 			},
 			"text": {
@@ -529,7 +529,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -544,7 +544,7 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994923451/in/album-72177720298007003/",
+				"url": "jequia14.jpg",
         "type": "image"
 			},
 			"text": {
@@ -554,7 +554,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -569,7 +569,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Anaires Galdino",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994973533/in/album-72177720298007003/",
+				"url": "jequia15.jpg",
         "type": "image"
 			},
 			"text": {
@@ -579,7 +579,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -594,7 +594,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia e texto: Renan Carvalho",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994984318/in/album-72177720298007003/",
+				"url": "jequia16.jpg",
         "type": "image"
 			},
 			"text": {
@@ -604,7 +604,7 @@
 		},
 		{
 			"icon": {
-				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+				"iconUrl": "/imgs/pin.svg",
 				"iconSize": [
 					48,
 					48
@@ -619,7 +619,7 @@
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Thaysia Marques",
-				"url": "https://www.flickr.com/photos/195400239@N08/51993911132/in/album-72177720298007003/",
+				"url": "jequia17.jpg",
         "type": "image"
 			},
 			"text": {
@@ -628,7 +628,7 @@
 			}
 		}
 	],
-  "creditos": [
+  "about": [
     {
       "section": "oficinas",
       "values": [

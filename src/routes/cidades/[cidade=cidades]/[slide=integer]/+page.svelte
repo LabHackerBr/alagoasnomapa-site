@@ -11,21 +11,21 @@
 
   onMount(async () => {
 		if (browser) {
-			LeafletContainer = (await import('$lib/map.svelte')).default;
+			LeafletContainer = (await import('$lib/leafletMap.svelte')).default;
 		}
 	})
 
   export let data: currentCity
-  $: currentSlide = parseInt($page.params.slide) - 1
+  $: currentSlide = parseInt($page.params.slide) - 1 | 0
 </script>
 
 <div class="w-full h-full relative">
   {#if browser}
   <svelte:component this={LeafletContainer} bind:this={map} mapData={data.city.slides} {currentSlide} />
   {/if}
-  <div class="absolute top-0 left-0 w-full h-full bg-white bg-opacity-30"
+  <div class="absolute top-0 left-0 w-full h-full bg-white bg-opacity-30" />
 </div>
-<SlideTransition on:pannelOut={() => map.moveMap()}>
+<SlideTransition on:pannelOut={() => map.moveMap()} key={currentSlide} transitionDelay={1500}>
   <div class="flex p-2 bg-theme-gray">
     {#if currentSlide > 0}
     <a

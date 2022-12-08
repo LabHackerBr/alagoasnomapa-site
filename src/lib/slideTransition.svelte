@@ -1,22 +1,24 @@
 <script lang="ts">
   import { createEventDispatcher } from 'svelte'
-	import { page } from '$app/stores'
   import { cubicInOut } from 'svelte/easing'
 
   const emit = createEventDispatcher()
+
+  export let key: number
+  export let transitionDelay = 0
 
   let lastPage = -1
   let currentPage = 1
   let right = true
 
-  $: $page.params.slide, changePage()
+  $: key, changePage()
 
   const changePage = () => {
     setDirection()
   }
 
   const setDirection = () => {
-    currentPage = parseInt($page.params.slide)
+    currentPage = key
     right = currentPage > lastPage
     lastPage = currentPage
   }
@@ -41,7 +43,7 @@
 
 {#key currentPage}
 <article
-  in:slide="{{ out: right ? -1 : 1, duration: 500, delay: 1500 }}"
+  in:slide="{{ out: right ? -1 : 1, duration: 500, delay: transitionDelay }}"
   out:slide="{{ out: right ? 1 : -1, duration: 500 }}"
   on:outroend="{() => emit('pannelOut')}"
   class="absolute w-full h-full flex flex-col text-center top-0 z-[1000]">

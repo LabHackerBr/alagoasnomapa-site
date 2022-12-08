@@ -3,44 +3,62 @@
 	import { page } from "$app/stores"
   import { navigating } from '$app/stores'
 	import { fly } from "svelte/transition"
+  import db from '$data/data'
+	import Credits from "./credits.svelte";
 
-  let menuOpen = false
+  let isMenuOpen = false
+  let isCreditsOpen = false
 
   $: if($navigating) closeMenu()
 
-  const closeMenu = () => menuOpen = false
+  const closeMenu = () => isMenuOpen = false
 </script>
 
 {#if $page.url.pathname !== '/' && $page.url.pathname !== '/teste'}
 <header
   transition:fly={{y: -80}}
-  class="flex h-20 p-4">
-  <img
-    src="{base}/imgs/logo_full.svg"
-    alt="Alagoas no Mapa" />
-
+  class="flex flex-grow-0 h-20 p-4">
+  <a class="h-full aspect-[3/1]" href="{base}/cidades">
+    <img
+      class="h-full"
+      src="{base}/imgs/logo_full.svg"
+      alt="Alagoas no Mapa" />
+  </a>
   <button
     class="ml-auto hamburger"
-    class:active={menuOpen}
-    on:click={() => menuOpen = !menuOpen}>
+    class:active={isMenuOpen}
+    on:click={() => isMenuOpen = !isMenuOpen}>
     <div></div>
   </button>
 </header>
 
 <aside
-  class="flex flex-col justify-between absolute top-20 right-0 bottom-0 w-full bg-white z-50
-        transform {menuOpen ? '' : 'translate-x-full'} transition-all ease-in-out duration-500">
-  <h1 class="center font-bold text-3xl pt-10 text-center">Coqueiro Seco</h1>
-  <ol class="flex flex-col items-center text-lg">
-    <li class="mb-8"><a href="https://www.instagram.com/alagoasnomapa/" rel="noreferrer" target="_blank">INSTAGRAM</a></li>
-    <li class="mb-8"><a href="https://www.instagram.com/alagoasnomapa/" rel="noreferrer" target="_blank">FLICKR</a></li>
-    <li class="mb-8"><a href="https://www.instagram.com/alagoasnomapa/" rel="noreferrer" target="_blank">YOUTUBE</a></li>
-    <li class="mb-8"><a href="https://www.instagram.com/alagoasnomapa/" rel="noreferrer" target="_blank">CRÉDITOS</a></li>
-  </ol>
-  <div class="text-center pb-10">
-    OU, SE PREFERIR,<br />
-    <a href="/sobre" class="underline">CONHEÇA MELHOR O PROJETO</a>
-  </div>
+  class="flex flex-col justify-between absolute top-16 right-0 bottom-0 w-full bg-white z-50
+        transform {isMenuOpen ? '' : 'translate-x-full'} transition-all ease-in-out duration-500">
+
+  {#if isCreditsOpen}
+    <Credits />
+  {:else}
+    {#if $page.params.cidade}
+    <a href="{base}/cidades/{$page.params.cidade}">
+      <h1 class="center font-bold text-3xl pt-10 text-center">{db[$page.params.cidade].name}</h1>
+    </a>
+    {/if}
+
+    <ol class="flex flex-col items-center text-lg my-auto">
+      {#if $page.params.cidade}
+      <li class="mb-8"><button on:click={() => isCreditsOpen = true}>CRÉDITOS</button></li>
+      {/if}
+      <li class="mb-8"><a href="https://www.instagram.com/alagoasnomapa/" rel="noreferrer" target="_blank">INSTAGRAM</a></li>
+      <li class="mb-8"><a href="https://www.flickr.com/photos/195400239@N08/albums" rel="noreferrer" target="_blank">FLICKR</a></li>
+      <li class="mb-8"><a href="https://www.youtube.com/channel/UCvzcof2jkHkWY756hJiw-ZQ" rel="noreferrer" target="_blank">YOUTUBE</a></li>
+    </ol>
+    <div class="text-center pb-10">
+      OU, SE PREFERIR,<br />
+      <a href="/sobre" class="underline">CONHEÇA MELHOR O PROJETO</a>
+    </div>
+  {/if}
+
 </aside>
 {/if}
 

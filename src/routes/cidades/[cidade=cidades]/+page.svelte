@@ -9,7 +9,9 @@
 
 <article class="flex flex-col text-center justify-around min-h-full">
   {#if data.city.slides[0].media.url !== ""}
+  <div class="aspect-video bg-black">
     <VimeoPlayer url={data.city.slides[0].media.url} autoplay />
+  </div>
   {/if}
   <div class="p-6">
     <p class="uppercase">Bem vindes à cidade de</p>

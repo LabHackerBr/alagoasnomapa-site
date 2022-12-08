@@ -20,7 +20,7 @@ interface cidade {
   name: string
   info: string
   slides: slide[]
-  creditos: credit[]
+  about: credit[]
 }
 
 interface slide {

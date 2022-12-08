@@ -4,7 +4,7 @@
 	"slides": [
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -24,12 +24,12 @@
 			},
 			"text": {
 				"headline": "Barra Nova",
-				"text": "<span>Povoado de Marechal Deodoro conhecido principalmente pela Prainha.</span><br><br>"
+				"text": "<span>Povoado de Marechal Deodoro conhecido principalmente pela Prainha.</span>"
 			}
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -44,17 +44,17 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52004563469/",
+				"url": "marechal0.jpg",
         "type": "image"
 			},
 			"text": {
 				"headline": "Drive Cocada Cultura",
-				"text": "<span>Espaço destinado para as cocadeiras da Massagueira venderem seus produtos em segurança, já que antes elas vendiam na beira da pista.</span><br>"
+				"text": "<span>Espaço destinado para as cocadeiras da Massagueira venderem seus produtos em segurança, já que antes elas vendiam na beira da pista.</span>"
 			}
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -79,7 +79,7 @@
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -94,7 +94,7 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52003111427/",
+				"url": "marechal1.jpg",
         "type": "image"
 			},
 			"text": {
@@ -104,7 +104,7 @@
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -119,7 +119,7 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52003110962/",
+				"url": "marechal2.jpg",
         "type": "image"
 			},
 			"text": {
@@ -129,7 +129,7 @@
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -144,7 +144,7 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52004388049/",
+				"url": "marechal3.jpg",
         "type": "image"
 			},
 			"text": {
@@ -154,7 +154,7 @@
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -179,7 +179,7 @@
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -194,7 +194,7 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52004562579/",
+				"url": "marechal4.jpg",
         "type": "image"
 			},
 			"text": {
@@ -204,7 +204,7 @@
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -219,7 +219,7 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52003111547/",
+				"url": "marechal5.jpg",
         "type": "image"
 			},
 			"text": {
@@ -229,7 +229,7 @@
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -254,7 +254,7 @@
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -269,7 +269,7 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52004895204/",
+				"url": "marechal6.jpg",
         "type": "image"
 			},
 			"text": {
@@ -279,7 +279,7 @@
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -294,7 +294,7 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52003394227/",
+				"url": "marechal7.jpg",
         "type": "image"
 			},
 			"text": {
@@ -304,7 +304,7 @@
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -319,7 +319,7 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52003111392/",
+				"url": "marechal8.jpg",
         "type": "image"
 			},
 			"text": {
@@ -329,7 +329,7 @@
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -344,7 +344,7 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52004657035/",
+				"url": "marechal9.jpg",
         "type": "image"
 			},
 			"text": {
@@ -354,7 +354,7 @@
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -369,7 +369,7 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52004193508/",
+				"url": "marechal10.jpg",
         "type": "image"
 			},
 			"text": {
@@ -379,7 +379,7 @@
 		},
 		{
 			"icon": {
-        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
@@ -403,7 +403,7 @@
 			}
 		}
 	],
-  "creditos": [
+  "about": [
     {
       "section": "oficinas",
       "values" : [
