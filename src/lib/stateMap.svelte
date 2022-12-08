@@ -1,8 +1,18 @@
 <script lang="ts">
+	import { goto } from "$app/navigation";
+	import { base } from "$app/paths";
+
+
   let cities = {
     coqueiro: false,
     jequia: false,
     marechal: false
+  }
+
+  const navigate = (event: KeyboardEvent, url: string) => {
+    console.log(event)
+    return
+    goto(url)
   }
 </script>
 
@@ -325,17 +335,20 @@
 </defs>
 
   <g id="jequia-da-praia" clip-path="url(#mascara-jequia-da-praia)">
-    <rect
-      class="active transition-all ease-in-out"
+    <a
       on:mouseenter={() => cities.jequia = true}
       on:mouseleave={() => cities.jequia = false}
       on:focus={() => cities.jequia = true}
       on:blur={() => cities.jequia = false}
-      x="710.4"
-      y="368.4"
-      width="{cities.jequia ? '213.3' : '27.9'}"
-      height="27.9"
-      />
+      xlink:href="{base}/cidades/jequiadapraia">
+      <rect
+        class="active transition-all ease-in-out cursor-pointer"
+        x="710.4"
+        y="368.4"
+        width="{cities.jequia ? '213.3' : '27.9'}"
+        height="27.9"
+        />
+    </a>
     <path d="M743.7,388.2c-0.7-0.4-1.4-0.9-1.8-1.6l1-1.1c0.9,1.3,2,1.9,3.3,1.9c1.9,0,2.9-1.1,2.9-3.4v-9.3h-5.6v-1.4h7.2V384
       c0,1.6-0.4,2.8-1.1,3.6c-0.8,0.8-1.9,1.2-3.4,1.2C745.3,388.8,744.5,388.6,743.7,388.2z"/>
     <path d="M765.3,383.3h-9.7c0.1,1.2,0.5,2.2,1.4,2.9c0.8,0.7,1.9,1.1,3.2,1.1c0.7,0,1.4-0.1,2-0.4s1.1-0.6,1.6-1.1l0.9,1
@@ -386,17 +399,20 @@
       s1.2,0.6,2.2,0.6C903.8,387.5,904.5,387.3,905.1,386.9z"/>
   </g>
   <g id="coqueiro-seco" clip-path="url(#mascara-coqueiro-seco)">
-    <rect
-      class="active transition-all ease-in-out"
+    <a
       on:mouseenter={() => cities.coqueiro = true}
       on:mouseleave={() => cities.coqueiro = false}
       on:focus={() => cities.coqueiro = true}
       on:blur={() => cities.coqueiro = false}
-      x="772.2"
-      y="246.4"
-      width="{cities.coqueiro ? '213.3' : '27.9'}"
-      height="27.9"
-      />
+      xlink:href="{base}/cidades/coqueiroseco">
+      <rect
+        class="active transition-all ease-in-out cursor-pointer"
+        x="772.2"
+        y="246.4"
+        width="{cities.coqueiro ? '213.3' : '27.9'}"
+        height="27.9"
+        />
+    </a>
     <path d="M807,265.5c-1.2-0.7-2.2-1.6-2.9-2.8c-0.7-1.2-1-2.5-1-4s0.3-2.8,1-4s1.7-2.1,2.9-2.8s2.6-1,4.1-1c1.1,0,2.2,0.2,3.2,0.6
       c1,0.4,1.8,0.9,2.5,1.7l-1,1c-1.2-1.2-2.7-1.8-4.6-1.8c-1.2,0-2.3,0.3-3.3,0.8c-1,0.6-1.8,1.3-2.3,2.3c-0.6,1-0.8,2.1-0.8,3.3
       s0.3,2.3,0.8,3.3c0.6,1,1.3,1.7,2.3,2.3c1,0.6,2.1,0.8,3.3,0.8c1.8,0,3.4-0.6,4.6-1.8l1,1c-0.7,0.7-1.5,1.3-2.5,1.7
@@ -449,17 +465,20 @@
       c0.7,0.4,1.4,0.6,2.2,0.6S955.5,264.9,956.2,264.5z"/>
   </g>
   <g id="marechal-deodoro" clip-path="url(#mascara-marechal-deodoro)">
-    <rect
-      class="active transition-all ease-in-out"
+    <a
       on:mouseenter={() => cities.marechal = true}
       on:mouseleave={() => cities.marechal = false}
       on:focus={() => cities.marechal = true}
       on:blur={() => cities.marechal = false}
-      x="772.2"
-      y="276.9"
-      width="{cities.marechal ? '244.2' : '27.9'}"
-      height="27.9"
-      />
+      xlink:href="{base}/cidades/marechaldeodoro">
+      <rect
+        class="active transition-all ease-in-out cursor-pointer"
+        x="772.2"
+        y="276.9"
+        width="{cities.marechal ? '244.2' : '27.9'}"
+        height="27.9"
+        />
+    </a>
     <path d="M820.2,281.9v15.4h-1.6V285l-6.1,10.4h-0.8l-6.1-10.3v12.3H804V282h1.3l6.7,11.4l6.6-11.4h1.6V281.9z"/>
     <path d="M832.4,286.8c0.8,0.8,1.2,1.9,1.2,3.4v7.2h-1.5v-1.8c-0.4,0.6-0.9,1.1-1.6,1.4c-0.7,0.3-1.5,0.5-2.4,0.5
       c-1.3,0-2.3-0.3-3.1-0.9s-1.1-1.4-1.1-2.4s0.4-1.8,1.1-2.4c0.7-0.6,1.8-0.9,3.4-0.9h3.7v-0.7c0-1-0.3-1.8-0.8-2.3
