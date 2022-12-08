@@ -3,49 +3,22 @@
   "info": "Cidade lagunar conhecida como a \"catedral da cultura popular\"",
   "slides": [
     {
-      "background": {
-        "url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/fundo de [bem vindos].jpg"
-      },
-      "date": "",
       "location": {
         "lat": -9.6765595,
         "line": true,
         "lon": -35.8296301,
-        "use_custom_marker": true,
         "zoom": 14
       },
-      "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://vimeo.com/695447840"
-      },
-      "text": {
-        "headline": "Bem-vindes a Coqueiro Seco",
-        "text": "<b><i>Cidade lagunar conhecida como a \"catedral da cultura popular\"</i></b></div>"
-      },
-      "type": "overview"
-    },
-    {
-      "background": {
-        "url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/17.jpg"
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
-        "lat": -9.6765595,
-        "line": true,
-        "lon": -35.8296301,
-        "use_custom_marker": true,
-        "zoom": 14
+        ]
       },
       "media": {
-        "caption": "",
-        "credit": "",
-        "url": "https://vimeo.com/695445881"
+        "url": "https://vimeo.com/695445881",
+        "type": "video"
       },
       "text": {
         "headline": "Santuário Nossa senhora dos Remédios",
@@ -53,27 +26,24 @@
       }
     },
     {
-      "background": {
-        "color": "#000000",
-        "opacity": 100
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.6710447,
         "line": true,
         "lon": -35.7930051,
-        "use_custom_marker": true,
         "zoom": 14
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://vimeo.com/695480487"
+        "url": "https://vimeo.com/695480487",
+        "type": "video"
       },
       "text": {
         "headline": "Restaurante do Renaldo",
@@ -81,27 +51,24 @@
       }
     },
     {
-      "background": {
-        "color": "#000000",
-        "opacity": 100
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.6358823,
         "line": true,
         "lon": -35.797638917,
-        "use_custom_marker": true,
         "zoom": 14
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://www.flickr.com/photos/195400239@N08/51980004679/"
+        "type": "image",
+        "url": "coqueiroseco01.jpg"
       },
       "text": {
         "headline": "Restaurante Recanto dos Amigos",
@@ -109,26 +76,24 @@
       }
     },
     {
-      "background": {
-        "url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/10 cadoz.jpg"
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.6696215,
         "line": true,
         "lon": -35.7904702,
-        "use_custom_marker": true,
         "zoom": 14
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://www.flickr.com/photos/195400239@N08/51979763623/"
+        "type": "image",
+        "url": "coqueiroseco02.jpg"
       },
       "text": {
         "headline": "Praça do Cadoz",
@@ -136,27 +101,24 @@
       }
     },
     {
-      "background": {
-        "color": "#000000",
-        "opacity": 100
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.6389457,
         "line": true,
         "lon": -35.8111053,
-        "use_custom_marker": true,
         "zoom": 14
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://www.flickr.com/photos/195400239@N08/51979784056/"
+        "type": "image",
+        "url": "coqueiroseco03.jpg"
       },
       "text": {
         "headline": "Restaurante da Dona Lucia",
@@ -164,27 +126,24 @@
       }
     },
     {
-      "background": {
-        "color": "#000000",
-        "opacity": 100
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.6386526,
         "line": true,
         "lon": -35.7910396,
-        "use_custom_marker": true,
         "zoom": 14
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://vimeo.com/695458175"
+        "url": "https://vimeo.com/695458175",
+        "type": "video"
       },
       "text": {
         "headline": "Ciclovia",
@@ -192,26 +151,24 @@
       }
     },
     {
-      "background": {
-        "url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Brisa chef.JPG"
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.6358823,
         "line": true,
         "lon": -35.797638917,
-        "use_custom_marker": true,
         "zoom": 14
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://live.staticflickr.com/65535/51980295881_730f1de95e_m.jpg"
+        "type": "image",
+        "url": "coqueiroseco04.jpg"
       },
       "text": {
         "headline": "Restaurante Brisa da Lagoa",
@@ -219,27 +176,24 @@
       }
     },
     {
-      "background": {
-        "color": "#000000",
-        "opacity": 100
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.6341291,
         "line": true,
         "lon": -35.7935303,
-        "use_custom_marker": true,
         "zoom": 14
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://www.flickr.com/photos/195400239@N08/51979664641/"
+        "type": "image",
+        "url": "coqueiroseco05.jpg"
       },
       "text": {
         "headline": "Casa do Jurista",
@@ -247,26 +201,24 @@
       }
     },
     {
-      "background": {
-        "url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/51979782423_69590ec59d_c.jpg"
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.637395394476911,
         "line": true,
         "lon": -35.790971612725286,
-        "use_custom_marker": true,
         "zoom": 14
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://vimeo.com/695449723"
+        "url": "https://vimeo.com/695449723",
+        "type": "video"
       },
       "text": {
         "headline": "Orla",
@@ -274,27 +226,24 @@
       }
     },
     {
-      "background": {
-        "color": "#000000",
-        "opacity": 100
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.63837726207149,
         "line": true,
         "lon": -35.8013600309053,
-        "use_custom_marker": true,
         "zoom": 12
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://vimeo.com/695487399"
+        "url": "https://vimeo.com/695487399",
+        "type": "video"
       },
       "text": {
         "headline": "Ladeiras",
@@ -302,26 +251,24 @@
       }
     },
     {
-      "background": {
-        "url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/19 igreja.jpg"
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.6374548,
         "line": true,
         "lon": -35.7952413,
-        "use_custom_marker": true,
         "zoom": 14
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://www.flickr.com/photos/195400239@N08/51980282645/"
+        "type": "image",
+        "url": "coqueiroseco06.jpg"
       },
       "text": {
         "headline": "Igreja Matriz de Nossa Senhora Mãe dos Homens",
@@ -329,26 +276,24 @@
       }
     },
     {
-      "background": {
-        "url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/7 colonia.jpg"
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.638808,
         "line": true,
         "lon": -35.790529,
-        "use_custom_marker": true,
         "zoom": 16
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://www.flickr.com/photos/195400239@N08/51980004354/"
+        "type": "image",
+        "url": "coqueiroseco07.jpg"
       },
       "text": {
         "headline": "Colônia de Pescadores",
@@ -356,26 +301,24 @@
       }
     },
     {
-      "background": {
-        "url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/9 dona noemia.jpg"
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.634282325985568,
         "line": true,
         "lon": -35.78817844390869,
-        "use_custom_marker": true,
         "zoom": 16
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://www.flickr.com/photos/195400239@N08/51978845217/in/photostream/"
+        "type": "image",
+        "url": "coqueiroseco08.jpg"
       },
       "text": {
         "headline": "Dona Noemia",
@@ -383,26 +326,24 @@
       }
     },
     {
-      "background": {
-        "url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/1-casa dona.jpg"
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.6358823,
         "line": true,
         "lon": -35.7976389,
-        "use_custom_marker": true,
         "zoom": 15
       },
       "media": {
         "caption": "",
         "credit": "\"[Celular Monique  T5i] Tarde \"",
-        "url": "https://live.staticflickr.com/65535/51979795568_7cfe5aaa18_z.jpg"
+        "type": "image",
+        "url": "coqueiroseco12.jpg"
       },
       "text": {
         "headline": "Casa de Dona Carminha",
@@ -410,26 +351,24 @@
       }
     },
     {
-      "background": {
-        "url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/1-fundo armando.jpg"
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.6358823,
         "line": true,
         "lon": -35.797638917,
-        "use_custom_marker": true,
         "zoom": 14
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://www.flickr.com/photos/195400239@N08/51978944097/"
+        "type": "image",
+        "url": "coqueiroseco09.jpg"
       },
       "text": {
         "headline": "Artesanato do Seu Armando",
@@ -437,26 +376,24 @@
       }
     },
     {
-      "background": {
-        "url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/suites.jpg"
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.6358823,
         "line": true,
         "lon": -35.797638917,
-        "use_custom_marker": true,
         "zoom": 14
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://www.flickr.com/photos/195400239@N08/51980520055/"
+        "type": "image",
+        "url": "coqueiroseco10.jpg"
       },
       "text": {
         "headline": "Suites do Campo",
@@ -464,26 +401,24 @@
       }
     },
     {
-      "background": {
-        "url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/por do sol.jpg"
-      },
-      "date": "",
-      "location": {
-        "icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+      "icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
         "iconSize": [
           48,
           48
-        ],
+        ]
+      },
+      "location": {
         "lat": -9.6358823,
         "line": true,
         "lon": -35.797638917,
-        "use_custom_marker": true,
         "zoom": 14
       },
       "media": {
         "caption": "",
         "credit": "",
-        "url": "https://www.flickr.com/photos/195400239@N08/51978685727/"
+        "type": "image",
+        "url": "coqueiroseco11.jpg"
       },
       "text": {
         "headline": "Pôr do Sol no Bairro Brasília",

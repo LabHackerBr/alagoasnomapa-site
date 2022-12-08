@@ -17,7 +17,7 @@
     loop: loop,
     muted: false,
     byline: false,
-    controls: false,
+    controls: true,
     title: false,
     playsinline: true,
     responsive: true,

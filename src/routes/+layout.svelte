@@ -10,7 +10,7 @@
 
 <div class="relative w-screen h-screen flex flex-col overflow-hidden">
 	<MainMenu />
-	<main class="flex-grow bg-theme-gray portrait:bg-transparent relative overflow-y-auto">
+	<main class="flex-grow bg-theme-gray portrait:bg-transparent relative overflow-y-auto z-0">
 		<slot />
 	</main>
   {#if !$page.params.hasOwnProperty('cidade')}

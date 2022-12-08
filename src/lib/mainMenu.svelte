@@ -28,7 +28,7 @@
 </header>
 
 <aside
-  class="flex flex-col justify-between absolute top-20 right-0 bottom-0 w-full bg-white z-10
+  class="flex flex-col justify-between absolute top-20 right-0 bottom-0 w-full bg-white z-50
         transform {menuOpen ? '' : 'translate-x-full'} transition-all ease-in-out duration-500">
   <h1 class="center font-bold text-3xl pt-10 text-center">Coqueiro Seco</h1>
   <ol class="flex flex-col items-center text-lg">

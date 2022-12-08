@@ -3,46 +3,24 @@
   "info": "O município com a terceira maior lagoa do Brasil",
 	"slides": [
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995170986_76e2051373_o.jpg"
-			},
-			"date": "",
-			"location": {
-				"line": true
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "https://vimeo.com/697906316"
-			},
-			"text": {
-				"headline": "Bem-Vindes a Jequiá da Praia",
-				"text": "O município com a terceira maior lagoa do Brasil."
-			},
-			"type": "overview"
-		},
-		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -9.96793,
 				"line": true,
 				"lon": -35.97724,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://vimeo.com/697944659"
+				"url": "https://vimeo.com/697944659",
+        "type": "video"
 			},
 			"text": {
 				"headline": "Passeio pela História de Jequiá",
@@ -50,28 +28,24 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100,
-				"url": ""
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -9.96307,
 				"line": true,
 				"lon": -35.97346,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995830029/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51995830029/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Praia da Lagoa Azeda",
@@ -79,27 +53,24 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -9.96608355572431,
 				"line": true,
 				"lon": -35.98319405391994,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "https://vimeo.com/saudaveissubversivos",
-				"url": "https://vimeo.com/697912100"
+				"url": "https://vimeo.com/697912100",
+        "type": "video"
 			},
 			"text": {
 				"headline": "Naufrágio do Itapajé",
@@ -107,27 +78,24 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -9.96793,
 				"line": true,
 				"lon": -35.97724,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://vimeo.com/697941483"
+				"url": "https://vimeo.com/697941483",
+        "type": "video"
 			},
 			"text": {
 				"headline": "Tingui: O Mistério da Lagoa Azeda",
@@ -135,28 +103,25 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100,
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51993917352_a805b8809a_o.jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.013555,
 				"line": true,
 				"lon": -36.022995,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://vimeo.com/697969673"
+				"url": "https://vimeo.com/697969673",
+        "type": "video"
 			},
 			"text": {
 				"headline": "Empório Caxangá",
@@ -164,26 +129,24 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51993919662_293361b624_o.jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -9.95647,
 				"line": true,
 				"lon": -36.02304,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Renan Carvalho",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995196529/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51995196529/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Igreja Matriz Nossa Senhora do Pilar",
@@ -191,26 +154,24 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995195909_79be0def82_o.jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.012086148955978,
 				"line": true,
 				"lon": -36.02336731130825,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Renan Carvalho",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995196024/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51995196024/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Praça José Pacheco",
@@ -218,27 +179,24 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.04975,
 				"line": true,
 				"lon": -36.031353,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://vimeo.com/697957209"
+				"url": "https://vimeo.com/697957209",
+        "type": "video"
 			},
 			"text": {
 				"headline": "Artesão Seu Mauro",
@@ -246,26 +204,24 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995192649_3ddd2f6710_o.jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.009341,
 				"line": true,
 				"lon": -36.0239398,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Luiz Henrique",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995465365/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51995465365/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Lanchonete da Maria",
@@ -273,26 +229,24 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995196444_7980b11503_o(1).jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.01122,
 				"line": true,
 				"lon": -36.024173,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Luiz Henrique",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995191864/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51995191864/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Feira de Jequiá",
@@ -300,27 +254,24 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.01077,
 				"line": true,
 				"lon": -36.02495,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Renan Carvalho",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994982533/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51994982533/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Lanchonete 3 Irmãos",
@@ -328,26 +279,24 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995692915_63d7396d27_o.jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.0092481,
 				"line": true,
 				"lon": -36.0242402,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Deyvillanne Fidelis",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995462970/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51995462970/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Praça de Eventos Napoleão Martins",
@@ -355,27 +304,24 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.0103585,
 				"line": true,
 				"lon": -36.0213147,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://vimeo.com/697971494"
+				"url": "https://vimeo.com/697971494",
+        "type": "video"
 			},
 			"text": {
 				"headline": "Rio da Espera",
@@ -383,26 +329,24 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995466200_f919fc2b8b_o.jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.009804909285357,
 				"line": true,
 				"lon": -36.024286595687016,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Deyvillanne Fidelis",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994919776/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51994919776/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Rio Jequiá",
@@ -410,22 +354,17 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100,
-				"url": ""
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.04706,
 				"line": true,
 				"lon": -36.02854,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
@@ -439,26 +378,24 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995208673_bcb790d77e_o.jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.01153664813242,
 				"line": true,
 				"lon": -36.026332289140655,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Thaysia Marques",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994131947/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51994131947/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Praça José Cassimiro",
@@ -466,28 +403,24 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100,
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995465605_93fd2a7670_o.jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.01071,
 				"line": true,
 				"lon": -36.026119,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Luiz Henrique",
-				"url": "https://www.flickr.com/photos/195400239@N08/51993916672"
+				"url": "https://www.flickr.com/photos/195400239@N08/51993916672",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Restaurante do Sebal",
@@ -495,28 +428,24 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100,
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995189994_e27244f07f_o.jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.010216062405373,
 				"line": true,
 				"lon": -36.025783724061895,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Renan Carvalho",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995468025/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51995468025/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Restaurante da Grinaura",
@@ -524,27 +453,24 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.010266,
 				"line": true,
 				"lon": -36.025702,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/51995196464/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51995196464/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Capela de Santa Cruz",
@@ -552,27 +478,24 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.0082187,
 				"line": true,
 				"lon": -36.0274935,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Luiz Henrique",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994922506/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51994922506/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Capela de Santo Antônio",
@@ -580,26 +503,24 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995150656_397bb2e9e6_o.jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.0065814,
 				"line": true,
 				"lon": -36.0272124,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Renan Carvalho",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994164757/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51994164757/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Prainha",
@@ -607,28 +528,24 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100,
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51994553612_48eab49206_o.jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.0043118,
 				"line": true,
 				"lon": -36.0278889,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994923451/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51994923451/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Campo da Lagoa",
@@ -636,26 +553,24 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51994128317_45b20b5962_o.jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.047129,
 				"line": true,
 				"lon": -36.031578,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Anaires Galdino",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994973533/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51994973533/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Barra de Jequiá",
@@ -663,28 +578,24 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100,
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51994984273_3b8a14b0cf_o(1).jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -10.049938071749887,
 				"line": true,
 				"lon": -36.0315292298187,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia e texto: Renan Carvalho",
-				"url": "https://www.flickr.com/photos/195400239@N08/51994984318/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51994984318/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Artesanato da Barra de Jequiá",
@@ -692,26 +603,24 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/51995406259_06bb038c33_o.jpg"
-			},
-			"date": "",
-			"location": {
-				"icon": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
+			"icon": {
+				"iconUrl": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/jequia-da-praia/_images/Page 1.svg",
 				"iconSize": [
 					48,
 					48
-				],
+				]
+      },
+      "location": {
 				"lat": -9.969521320504679,
 				"line": true,
 				"lon": -36.03621363498817,
-				"use_custom_marker": true,
 				"zoom": 12
 			},
 			"media": {
 				"caption": "",
 				"credit": "Fotografia: Thaysia Marques",
-				"url": "https://www.flickr.com/photos/195400239@N08/51993911132/in/album-72177720298007003/"
+				"url": "https://www.flickr.com/photos/195400239@N08/51993911132/in/album-72177720298007003/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Banho das Pedras",

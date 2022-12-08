@@ -3,31 +3,13 @@
   "info": "Cidade banhada pelas lagoas Mundaú e Manguaba que é Patrimônio Histórico Nacional",
 	"slides": [
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
-			"location": {
-				"line": true
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": ""
-			},
-			"text": {
-				"headline": "Bem-Vindes a Marechal Deodoro",
-				"text": "<span>Cidade banhada pelas lagoas Mundaú e Manguaba que é Patrimônio Histórico Nacional</span>"
-			},
-			"type": "overview"
-		},
-		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.723746,
 				"line": true,
@@ -37,7 +19,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://vimeo.com/699552073"
+				"url": "https://vimeo.com/699552073",
+        "type": "video"
 			},
 			"text": {
 				"headline": "Barra Nova",
@@ -45,11 +28,13 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.737749988648028,
 				"line": true,
@@ -59,7 +44,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52004563469/"
+				"url": "https://www.flickr.com/photos/195400239@N08/52004563469/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Drive Cocada Cultura",
@@ -67,11 +53,13 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.77106,
 				"line": true,
@@ -81,7 +69,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://vimeo.com/699577084"
+				"url": "https://vimeo.com/699577084",
+        "type": "video"
 			},
 			"text": {
 				"headline": "Vila dos Pescadores (S. Moisés)",
@@ -89,10 +78,13 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/52004388224_b45ce2a3b8_o.jpg"
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.732929607290007,
 				"line": true,
@@ -102,7 +94,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52003111427/"
+				"url": "https://www.flickr.com/photos/195400239@N08/52003111427/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Igreja N S do Bonfim",
@@ -110,10 +103,13 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/52004388664_4c42f2cac6_o.jpg"
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.720796746807139,
 				"line": true,
@@ -123,7 +119,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52003110962/"
+				"url": "https://www.flickr.com/photos/195400239@N08/52003110962/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Igreja N S da Conceição",
@@ -131,11 +128,13 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.720796746807139,
 				"line": true,
@@ -145,7 +144,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52004388049/"
+				"url": "https://www.flickr.com/photos/195400239@N08/52004388049/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Filarmonica Santa Cecília",
@@ -153,10 +153,13 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/Banda pifano.jpg"
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.717585346333397,
 				"line": true,
@@ -166,7 +169,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://vimeo.com/699530291"
+				"url": "https://vimeo.com/699530291",
+        "type": "video"
 			},
 			"text": {
 				"headline": "Banda de Pífano (Matriz)",
@@ -174,10 +178,13 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/antiga cadeia.jpg"
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.72000437154396,
 				"line": true,
@@ -187,7 +194,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52004562579/"
+				"url": "https://www.flickr.com/photos/195400239@N08/52004562579/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Casa da Câmara e Antiga Cadeia",
@@ -195,10 +203,13 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/colonial.jpg"
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.719429072606925,
 				"line": true,
@@ -208,7 +219,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52003111547/"
+				"url": "https://www.flickr.com/photos/195400239@N08/52003111547/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Colônia dos Pescadores",
@@ -216,12 +228,13 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100,
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/ponte.jpg"
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.716847,
 				"line": true,
@@ -231,7 +244,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://vimeo.com/699519130"
+				"url": "https://vimeo.com/699519130",
+        "type": "video"
 			},
 			"text": {
 				"headline": "Cais da Lancha",
@@ -239,10 +253,13 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/52003587567_c1134d2fe0_o.jpg"
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.712767,
 				"line": true,
@@ -252,7 +269,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52004895204/"
+				"url": "https://www.flickr.com/photos/195400239@N08/52004895204/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Mucuri",
@@ -260,10 +278,13 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/centro.jpg"
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.716689,
 				"line": true,
@@ -273,7 +294,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52003394227/"
+				"url": "https://www.flickr.com/photos/195400239@N08/52003394227/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Centro Histórico",
@@ -281,10 +303,13 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/Mercado das Rendas e Bordados.jpg"
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.715605157103187,
 				"line": true,
@@ -294,7 +319,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52003111392/"
+				"url": "https://www.flickr.com/photos/195400239@N08/52003111392/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Mercado das Rendas e Bordados",
@@ -302,10 +328,13 @@
 			}
 		},
 		{
-			"background": {
-				"url": "//uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/marechal-deodoro/_images/filarmonica carlos gomes.jpg"
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.720458873441684,
 				"line": true,
@@ -315,7 +344,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52004657035/"
+				"url": "https://www.flickr.com/photos/195400239@N08/52004657035/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Filarmonica Carlos Gomes",
@@ -323,11 +353,13 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.717585346333397,
 				"line": true,
@@ -337,7 +369,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://www.flickr.com/photos/195400239@N08/52004193508/"
+				"url": "https://www.flickr.com/photos/195400239@N08/52004193508/",
+        "type": "image"
 			},
 			"text": {
 				"headline": "Casas em risco de desabamento",
@@ -345,11 +378,13 @@
 			}
 		},
 		{
-			"background": {
-				"color": "#000000",
-				"opacity": 100
-			},
-			"date": "",
+			"icon": {
+        "iconUrl": "https://uploads.knightlab.com/storymapjs/c35fa21be0f6ec151b0aa2c5425efc86/coqueiro-seco/_images/Page 1.svg",
+        "iconSize": [
+          48,
+          48
+        ]
+      },
 			"location": {
 				"lat": -9.716764399882639,
 				"line": true,
@@ -359,7 +394,8 @@
 			"media": {
 				"caption": "",
 				"credit": "",
-				"url": "https://vimeo.com/699517948"
+				"url": "https://vimeo.com/699517948",
+        "type": "video"
 			},
 			"text": {
 				"headline": "Nova Orla Lagunar",

@@ -1,0 +1,50 @@
+<script lang="ts">
+  import { createEventDispatcher } from 'svelte'
+	import { page } from '$app/stores'
+  import { cubicInOut } from 'svelte/easing'
+
+  const emit = createEventDispatcher()
+
+  let lastPage = -1
+  let currentPage = 1
+  let right = true
+
+  $: $page.params.slide, changePage()
+
+  const changePage = () => {
+    setDirection()
+  }
+
+  const setDirection = () => {
+    currentPage = parseInt($page.params.slide)
+    right = currentPage > lastPage
+    lastPage = currentPage
+  }
+
+  const slide = (node: HTMLElement, {
+    out = 1,
+    delay = 0,
+    duration = 0
+  }) => {
+    const o = +getComputedStyle(node).opacity
+		return {
+      delay,
+			duration,
+      out,
+			css: (t: number) => {
+        const eased = cubicInOut(t)
+        return `transform: translateX(${out * (eased * 100 - 100)}%); opacity: ${t * o};`
+      }
+		}
+	}
+</script>
+
+{#key currentPage}
+<article
+  in:slide="{{ out: right ? -1 : 1, duration: 500, delay: 1500 }}"
+  out:slide="{{ out: right ? 1 : -1, duration: 500 }}"
+  on:outroend="{() => emit('pannelOut')}"
+  class="absolute w-full h-full flex flex-col text-center top-0 z-[1000]">
+  <slot />
+</article>
+{/key}

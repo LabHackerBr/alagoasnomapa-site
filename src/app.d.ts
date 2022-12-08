@@ -24,28 +24,26 @@ interface cidade {
 }
 
 interface slide {
-  background: {
-    url?: string
-    color?: string,
-		opacity?: number
-  },
-  date: string,
   location: {
     line: boolean
     lat: number
     lon: number
     zoom: number
-  },
+  }
+  icon?: {
+    iconUrl: string
+    iconSize: [number, number]
+  }
   media: {
-    caption: string,
-    credit: string,
+    type: "video" | "image"
+    caption?: string
+    credit?: string
     url: string
-  },
+  }
   text: {
     headline: string,
     text: string
-  },
-  type: string
+  }
 }
 
 interface credit {
