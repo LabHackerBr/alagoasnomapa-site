@@ -7,7 +7,7 @@
   <div class="flex-grow p-6 lg:p-20">
     <Statemap />
   </div>
-  <div class="flex-grow flex flex-col lg:hidden pr-2 portrait:pr-0">
+  <div class="flex-grow flex flex-col justify-around lg:hidden pr-2 portrait:pr-0">
     <a href="{base}/cidades/coqueiroseco" class="button text-sm py-2 md:ml-3 mt-2">
       Coqueiro Seco
     </a>

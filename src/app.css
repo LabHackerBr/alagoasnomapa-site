@@ -24,7 +24,7 @@ svg {
 }
 
 .button {
-  @apply w-full mb-2 flex items-center justify-center text-white bg-theme;
+  @apply mb-2 flex items-center justify-center text-white bg-theme;
 }
 
 .button:hover {

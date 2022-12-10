@@ -14,7 +14,7 @@
 		<slot />
 	</main>
   {#if !$page.params.hasOwnProperty('cidade')}
-  <footer class="flex justify-center flex-wrap my-4">
+  <footer class="flex justify-center portrait:flex-wrap my-4">
     <Logos />
   </footer>
   {/if}

@@ -12,6 +12,7 @@
   $: if($navigating) closeMenu()
 
   const closeMenu = () => isMenuOpen = false
+  const closeCredit = () => isCreditsOpen = false
 </script>
 
 {#if $page.url.pathname !== '/' && $page.url.pathname !== '/teste'}
@@ -34,11 +35,17 @@
 
 <aside
   class="flex flex-col justify-between absolute top-16 right-0 bottom-0 w-full bg-white z-50
-        transform {isMenuOpen ? '' : 'translate-x-full'} transition-all ease-in-out duration-500">
+        transform {isMenuOpen ? '' : 'translate-x-full'} transition-all ease-in-out duration-500"
+        on:transitionend={closeCredit}>
 
   {#if isCreditsOpen}
+  <div in:fly={{x: 300, opacity: 300, duration: 500}} class="absolute w-full h-full overflow-y-auto">
     <Credits />
+  </div>
+
   {:else}
+
+  <div out:fly={{x: -300, opacity: 300, duration: 500}} class="absolute w-full h-full flex flex-col">
     {#if $page.params.cidade}
     <a href="{base}/cidades/{$page.params.cidade}">
       <h1 class="center font-bold text-3xl pt-10 text-center">{db[$page.params.cidade].name}</h1>
@@ -57,7 +64,8 @@
       OU, SE PREFERIR,<br />
       <a href="/sobre" class="underline">CONHEÇA MELHOR O PROJETO</a>
     </div>
-  {/if}
+  </div>
+{/if}
 
 </aside>
 {/if}
