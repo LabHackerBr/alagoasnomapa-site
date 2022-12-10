@@ -1,8 +1,5 @@
 <script lang="ts">
-  import { createEventDispatcher } from 'svelte'
   import { cubicInOut } from 'svelte/easing'
-
-  const emit = createEventDispatcher()
 
   export let key: number
   export let transitionDelay = 0
@@ -42,11 +39,10 @@
 </script>
 
 {#key currentPage}
-<article
+<div
   in:slide="{{ out: right ? -1 : 1, duration: 500, delay: transitionDelay }}"
-  out:slide="{{ out: right ? 1 : -1, duration: 500 }}"
-  on:outroend="{() => emit('pannelOut')}"
+  out:slide="{{ out: right ? 1 : -1, duration: 500, delay: transitionDelay }}"
   class="absolute w-full h-full flex flex-col text-center top-0 z-[1000]">
   <slot />
-</article>
+</div>
 {/key}

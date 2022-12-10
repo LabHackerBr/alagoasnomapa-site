@@ -26,7 +26,9 @@
     mapElement = leafletMap?.getMap()
   })
 
-  export const moveMap = () => {
+  $: currentSlide, moveMap()
+
+  const moveMap = () => {
     if(!mapElement) return
     mapElement.flyTo([mapData[currentSlide].location.lat, mapData[currentSlide].location.lon], mapData[currentSlide].location.zoom)
   }
