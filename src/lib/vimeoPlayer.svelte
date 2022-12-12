@@ -7,7 +7,6 @@
 	export let url: string
   export let autoplay = false
   export let loop = false
-  export let ended = false
 
   $: url, loadVideo()
 
@@ -45,10 +44,6 @@
 		player.on('timeupdate', (data: currentTime) => emit("timeupdate", data))
 		player.on('ended', () => emit("ended"))
     player.on('error', (e: Error) => {
-      if(e.name = 'NotAllowedError') {
-        muted.mute()
-        player.play()
-      }
 			console.log('error', e)
     })
     if(loop) player.setLoop(true)
@@ -77,7 +72,7 @@
 
   export const loadVideo = () => {
     if(!player) return
-    player.loadVideo(`https://player.vimeo.com/video/${id}${key ? '?h=' + key : ''}`)
+    player.loadVideo({url})
   }
 
 	onMount(() => {

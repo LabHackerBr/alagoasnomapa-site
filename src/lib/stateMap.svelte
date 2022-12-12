@@ -1,21 +1,14 @@
 <script lang="ts">
-	import { goto } from "$app/navigation";
 	import { base } from "$app/paths";
-
 
   let cities = {
     coqueiro: false,
     jequia: false,
     marechal: false
   }
-
-  const navigate = (event: KeyboardEvent, url: string) => {
-    console.log(event)
-    return
-    goto(url)
-  }
 </script>
 
+<!-- svelte-ignore a11y-no-noninteractive-tabindex -->
 <svg
 	version="1.1"
 	id="Camada_2"
@@ -247,7 +240,7 @@
 <rect x="154.4" y="122.1" width="27.9" height="29.9"/>
 <rect x="154.4" y="30.5" width="27.9" height="27.9"/>
 <rect x="154.4" y="61" width="27.9" height="27.9"/>
-<rect x="123.6" width="27.9"bool height="27.9"/>
+<rect x="123.6" width="27.9" height="27.9"/>
 <rect x="463.3" y="337.9" width="27.9" height="27.9"/>
 <rect x="463.3" y="307.4" width="27.9" height="27.9"/>
 <rect x="463.3" y="276.9" width="27.9" height="27.9"/>
@@ -336,6 +329,7 @@
 
   <g id="jequia-da-praia" clip-path="url(#mascara-jequia-da-praia)">
     <a
+      tabindex="0"
       on:mouseenter={() => cities.jequia = true}
       on:mouseleave={() => cities.jequia = false}
       on:focus={() => cities.jequia = true}
@@ -400,6 +394,7 @@
   </g>
   <g id="coqueiro-seco" clip-path="url(#mascara-coqueiro-seco)">
     <a
+      tabindex="0"
       on:mouseenter={() => cities.coqueiro = true}
       on:mouseleave={() => cities.coqueiro = false}
       on:focus={() => cities.coqueiro = true}
@@ -466,6 +461,7 @@
   </g>
   <g id="marechal-deodoro" clip-path="url(#mascara-marechal-deodoro)">
     <a
+      tabindex="0"
       on:mouseenter={() => cities.marechal = true}
       on:mouseleave={() => cities.marechal = false}
       on:focus={() => cities.marechal = true}

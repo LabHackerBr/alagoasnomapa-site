@@ -99,7 +99,7 @@
   .info { grid-area: info; }
 
   .arrow-left { grid-area: al; }
-  .arrou-right { grid-area: ar; }
+  .arrow-right { grid-area: ar; }
 
   @media (orientation: portrait) {
     article {

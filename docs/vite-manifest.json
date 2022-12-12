@@ -1,11 +1,11 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "app/immutable/start-61ee4713.js",
+    "file": "app/immutable/start-eb744b9c.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
       "_index-77c81dfa.js",
-      "_singletons-1d517bf5.js",
+      "_singletons-42af1587.js",
       "_preload-helper-ade2c90f.js",
       "_data-ffaaf8d8.js",
       "_paths-6ff7d232.js"
@@ -23,12 +23,12 @@
     ]
   },
   "src/routes/+layout.svelte": {
-    "file": "app/immutable/components/pages/_layout.svelte-d8d421c7.js",
+    "file": "app/immutable/components/pages/_layout.svelte-e4aa5113.js",
     "src": "src/routes/+layout.svelte",
     "isEntry": true,
     "imports": [
       "_index-77c81dfa.js",
-      "_stores-c0f07633.js",
+      "_stores-83de88a6.js",
       "_paths-6ff7d232.js",
       "_slideTransition-ee742128.js",
       "_data-ffaaf8d8.js"
@@ -38,12 +38,12 @@
     ]
   },
   "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
-    "file": "app/immutable/components/error.svelte-3e1c26b8.js",
+    "file": "app/immutable/components/error.svelte-ce0dc180.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
     "isEntry": true,
     "imports": [
       "_index-77c81dfa.js",
-      "_stores-c0f07633.js"
+      "_stores-83de88a6.js"
     ]
   },
   "src/routes/cidades/[cidade=cidades]/+layout.svelte": {
@@ -67,46 +67,45 @@
     ]
   },
   "src/routes/cidades/+page.svelte": {
-    "file": "app/immutable/components/pages/cidades/_page.svelte-8363b063.js",
+    "file": "app/immutable/components/pages/cidades/_page.svelte-4b1a128b.js",
     "src": "src/routes/cidades/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-77c81dfa.js",
-      "_paths-6ff7d232.js",
-      "_singletons-1d517bf5.js"
+      "_paths-6ff7d232.js"
     ],
     "css": [
       "app/immutable/assets/_page-92e40f4c.css"
     ]
   },
   "src/routes/cidades/[cidade=cidades]/+page.svelte": {
-    "file": "app/immutable/components/pages/cidades/_cidade_cidades_/_page.svelte-1486fcd5.js",
+    "file": "app/immutable/components/pages/cidades/_cidade_cidades_/_page.svelte-ad7ba5bd.js",
     "src": "src/routes/cidades/[cidade=cidades]/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-77c81dfa.js",
-      "_stores-c0f07633.js",
+      "_stores-83de88a6.js",
       "_paths-6ff7d232.js",
-      "_vimeoPlayer-a4fa5de5.js"
+      "_vimeoPlayer-53e4fae7.js"
     ]
   },
   "src/routes/cidades/[cidade=cidades]/[slide=integer]/+page.svelte": {
-    "file": "app/immutable/components/pages/cidades/_cidade_cidades_/_slide_integer_/_page.svelte-9d63a01f.js",
+    "file": "app/immutable/components/pages/cidades/_cidade_cidades_/_slide_integer_/_page.svelte-5c31e7fe.js",
     "src": "src/routes/cidades/[cidade=cidades]/[slide=integer]/+page.svelte",
     "isEntry": true,
     "imports": [
       "_preload-helper-ade2c90f.js",
       "_index-77c81dfa.js",
-      "_stores-c0f07633.js",
+      "_stores-83de88a6.js",
       "_paths-6ff7d232.js",
-      "_vimeoPlayer-a4fa5de5.js",
+      "_vimeoPlayer-53e4fae7.js",
       "_slideTransition-ee742128.js"
     ],
     "dynamicImports": [
       "src/lib/leafletMap.svelte"
     ],
     "css": [
-      "app/immutable/assets/_page-fa7babe2.css"
+      "app/immutable/assets/_page-a83bf8bc.css"
     ]
   },
   "src/routes/sobre/+page.svelte": {
@@ -138,8 +137,8 @@
       "__layout-44f878c5.js"
     ]
   },
-  "_singletons-1d517bf5.js": {
-    "file": "app/immutable/chunks/singletons-1d517bf5.js",
+  "_singletons-42af1587.js": {
+    "file": "app/immutable/chunks/singletons-42af1587.js",
     "imports": [
       "_index-77c81dfa.js",
       "_paths-6ff7d232.js"
@@ -157,11 +156,11 @@
   "_data-ffaaf8d8.js": {
     "file": "app/immutable/chunks/data-ffaaf8d8.js"
   },
-  "_stores-c0f07633.js": {
-    "file": "app/immutable/chunks/stores-c0f07633.js",
+  "_stores-83de88a6.js": {
+    "file": "app/immutable/chunks/stores-83de88a6.js",
     "imports": [
       "_index-77c81dfa.js",
-      "_singletons-1d517bf5.js"
+      "_singletons-42af1587.js"
     ]
   },
   "_slideTransition-ee742128.js": {
@@ -176,14 +175,14 @@
       "_data-ffaaf8d8.js"
     ]
   },
-  "_vimeoPlayer-a4fa5de5.js": {
-    "file": "app/immutable/chunks/vimeoPlayer-a4fa5de5.js",
+  "_vimeoPlayer-53e4fae7.js": {
+    "file": "app/immutable/chunks/vimeoPlayer-53e4fae7.js",
     "imports": [
       "_index-77c81dfa.js"
     ]
   },
   ".svelte-kit/generated/nodes/0.js": {
-    "file": "app/immutable/chunks/0-c2ff74e6.js",
+    "file": "app/immutable/chunks/0-30a9e4f2.js",
     "src": ".svelte-kit/generated/nodes/0.js",
     "isDynamicEntry": true,
     "imports": [
@@ -191,7 +190,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/1.js": {
-    "file": "app/immutable/chunks/1-3147423b.js",
+    "file": "app/immutable/chunks/1-e3927beb.js",
     "src": ".svelte-kit/generated/nodes/1.js",
     "isDynamicEntry": true,
     "imports": [
@@ -216,7 +215,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/4.js": {
-    "file": "app/immutable/chunks/4-3e4f88bc.js",
+    "file": "app/immutable/chunks/4-a57cf532.js",
     "src": ".svelte-kit/generated/nodes/4.js",
     "isDynamicEntry": true,
     "imports": [
@@ -224,7 +223,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/5.js": {
-    "file": "app/immutable/chunks/5-c705baf3.js",
+    "file": "app/immutable/chunks/5-d3473140.js",
     "src": ".svelte-kit/generated/nodes/5.js",
     "isDynamicEntry": true,
     "imports": [
@@ -232,7 +231,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/6.js": {
-    "file": "app/immutable/chunks/6-91a67a2c.js",
+    "file": "app/immutable/chunks/6-0f030982.js",
     "src": ".svelte-kit/generated/nodes/6.js",
     "isDynamicEntry": true,
     "imports": [
@@ -267,23 +266,23 @@
     ]
   },
   "src/routes/cidades/[cidade=cidades]/[slide=integer]/+page.css": {
-    "file": "app/immutable/assets/_page-fa7babe2.css",
+    "file": "app/immutable/assets/_page-a83bf8bc.css",
     "src": "src/routes/cidades/[cidade=cidades]/[slide=integer]/+page.css"
-  },
-  "src/routes/teste/+page.css": {
-    "file": "app/immutable/assets/_page-a5682ee0.css",
-    "src": "src/routes/teste/+page.css"
   },
   "src/routes/+layout.css": {
     "file": "app/immutable/assets/_layout-d54d63ae.css",
     "src": "src/routes/+layout.css"
   },
-  "src/lib/leafletMap.css": {
-    "file": "app/immutable/assets/leafletMap-3625237c.css",
-    "src": "src/lib/leafletMap.css"
-  },
   "src/routes/cidades/+page.css": {
     "file": "app/immutable/assets/_page-92e40f4c.css",
     "src": "src/routes/cidades/+page.css"
+  },
+  "src/routes/teste/+page.css": {
+    "file": "app/immutable/assets/_page-a5682ee0.css",
+    "src": "src/routes/teste/+page.css"
+  },
+  "src/lib/leafletMap.css": {
+    "file": "app/immutable/assets/leafletMap-3625237c.css",
+    "src": "src/lib/leafletMap.css"
   }
 }
