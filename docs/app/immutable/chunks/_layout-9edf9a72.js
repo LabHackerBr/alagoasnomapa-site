@@ -1,0 +1,1 @@
+import{d as o}from"./data-7689e624.js";function t({params:e}){return{city:o[e.cidade]}}const a=Object.freeze(Object.defineProperty({__proto__:null,load:t},Symbol.toStringTag,{value:"Module"}));export{a as _,t as l};
