@@ -16,10 +16,10 @@
     </p>
   </div>
   <div style="grid-area: b;" class="buttons flex-col px-6 md:flex-row md:mr-3 portrait:px-0">
-    <a href="/cidades" class="button text-sm p-2 portrait:py-6">
+    <a href="/cidades" class="button text-sm p-2 portrait:py-6 portrait:w-full">
       Conheça os Trabalhos
     </a>
-    <a href="/sobre" class="button text-sm p-2 md:ml-3">
+    <a href="/sobre" class="button text-sm p-2 md:ml-3 portrait:w-full">
       Sobre o Projeto
     </a>
   </div>

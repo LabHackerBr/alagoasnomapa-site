@@ -1,6 +1,6 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "app/immutable/start-d85fb61b.js",
+    "file": "app/immutable/start-61ee4713.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -118,7 +118,7 @@
     ]
   },
   "src/routes/teste/+page.svelte": {
-    "file": "app/immutable/components/pages/teste/_page.svelte-c3d23e22.js",
+    "file": "app/immutable/components/pages/teste/_page.svelte-89052a63.js",
     "src": "src/routes/teste/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -248,7 +248,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/8.js": {
-    "file": "app/immutable/chunks/8-6f81ef7a.js",
+    "file": "app/immutable/chunks/8-8a69992a.js",
     "src": ".svelte-kit/generated/nodes/8.js",
     "isDynamicEntry": true,
     "imports": [
@@ -266,24 +266,24 @@
       "app/immutable/assets/leafletMap-3625237c.css"
     ]
   },
-  "src/routes/teste/+page.css": {
-    "file": "app/immutable/assets/_page-a5682ee0.css",
-    "src": "src/routes/teste/+page.css"
-  },
   "src/routes/cidades/[cidade=cidades]/[slide=integer]/+page.css": {
     "file": "app/immutable/assets/_page-fa7babe2.css",
     "src": "src/routes/cidades/[cidade=cidades]/[slide=integer]/+page.css"
   },
-  "src/routes/cidades/+page.css": {
-    "file": "app/immutable/assets/_page-92e40f4c.css",
-    "src": "src/routes/cidades/+page.css"
+  "src/routes/teste/+page.css": {
+    "file": "app/immutable/assets/_page-a5682ee0.css",
+    "src": "src/routes/teste/+page.css"
+  },
+  "src/routes/+layout.css": {
+    "file": "app/immutable/assets/_layout-d54d63ae.css",
+    "src": "src/routes/+layout.css"
   },
   "src/lib/leafletMap.css": {
     "file": "app/immutable/assets/leafletMap-3625237c.css",
     "src": "src/lib/leafletMap.css"
   },
-  "src/routes/+layout.css": {
-    "file": "app/immutable/assets/_layout-d54d63ae.css",
-    "src": "src/routes/+layout.css"
+  "src/routes/cidades/+page.css": {
+    "file": "app/immutable/assets/_page-92e40f4c.css",
+    "src": "src/routes/cidades/+page.css"
   }
 }
