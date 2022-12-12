@@ -270,17 +270,17 @@
     "file": "app/immutable/assets/_page-a5682ee0.css",
     "src": "src/routes/teste/+page.css"
   },
-  "src/lib/leafletMap.css": {
-    "file": "app/immutable/assets/leafletMap-3625237c.css",
-    "src": "src/lib/leafletMap.css"
+  "src/routes/cidades/[cidade=cidades]/[slide=integer]/+page.css": {
+    "file": "app/immutable/assets/_page-fa7babe2.css",
+    "src": "src/routes/cidades/[cidade=cidades]/[slide=integer]/+page.css"
   },
   "src/routes/cidades/+page.css": {
     "file": "app/immutable/assets/_page-92e40f4c.css",
     "src": "src/routes/cidades/+page.css"
   },
-  "src/routes/cidades/[cidade=cidades]/[slide=integer]/+page.css": {
-    "file": "app/immutable/assets/_page-fa7babe2.css",
-    "src": "src/routes/cidades/[cidade=cidades]/[slide=integer]/+page.css"
+  "src/lib/leafletMap.css": {
+    "file": "app/immutable/assets/leafletMap-3625237c.css",
+    "src": "src/lib/leafletMap.css"
   },
   "src/routes/+layout.css": {
     "file": "app/immutable/assets/_layout-d54d63ae.css",
