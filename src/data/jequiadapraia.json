@@ -1,32 +1,8 @@
 {
   "name": "Jequiá da Praia",
   "info": "O município com a terceira maior lagoa do Brasil",
+  "media": "https://vimeo.com/697944659/c9db4ab24a",
 	"slides": [
-		{
-			"icon": {
-				"iconUrl": "/imgs/pin.svg",
-				"iconSize": [
-					48,
-					48
-				]
-      },
-      "location": {
-				"lat": -9.96793,
-				"line": true,
-				"lon": -35.97724,
-				"zoom": 12
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "https://vimeo.com/697944659/c9db4ab24a",
-        "type": "video"
-			},
-			"text": {
-				"headline": "Passeio pela História de Jequiá",
-				"text": "<span>Trajeto do início de Jequiá da Praia até o Campo da Lagoa.</span><br>"
-			}
-		},
 		{
 			"icon": {
 				"iconUrl": "/imgs/pin.svg",
@@ -39,7 +15,7 @@
 				"lat": -9.96307,
 				"line": true,
 				"lon": -35.97346,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -64,7 +40,7 @@
 				"lat": -9.96608355572431,
 				"line": true,
 				"lon": -35.98319405391994,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -89,7 +65,7 @@
 				"lat": -9.96793,
 				"line": true,
 				"lon": -35.97724,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -115,7 +91,7 @@
 				"lat": -10.013555,
 				"line": true,
 				"lon": -36.022995,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -140,7 +116,7 @@
 				"lat": -9.95647,
 				"line": true,
 				"lon": -36.02304,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -165,7 +141,7 @@
 				"lat": -10.012086148955978,
 				"line": true,
 				"lon": -36.02336731130825,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -190,7 +166,7 @@
 				"lat": -10.04975,
 				"line": true,
 				"lon": -36.031353,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -215,7 +191,7 @@
 				"lat": -10.009341,
 				"line": true,
 				"lon": -36.0239398,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -240,7 +216,7 @@
 				"lat": -10.01122,
 				"line": true,
 				"lon": -36.024173,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -265,7 +241,7 @@
 				"lat": -10.01077,
 				"line": true,
 				"lon": -36.02495,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -290,7 +266,7 @@
 				"lat": -10.0092481,
 				"line": true,
 				"lon": -36.0242402,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -315,7 +291,7 @@
 				"lat": -10.0103585,
 				"line": true,
 				"lon": -36.0213147,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -340,7 +316,7 @@
 				"lat": -10.009804909285357,
 				"line": true,
 				"lon": -36.024286595687016,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -365,7 +341,7 @@
 				"lat": -10.04706,
 				"line": true,
 				"lon": -36.02854,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -389,7 +365,7 @@
 				"lat": -10.01153664813242,
 				"line": true,
 				"lon": -36.026332289140655,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -414,7 +390,7 @@
 				"lat": -10.01071,
 				"line": true,
 				"lon": -36.026119,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -439,7 +415,7 @@
 				"lat": -10.010216062405373,
 				"line": true,
 				"lon": -36.025783724061895,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -464,7 +440,7 @@
 				"lat": -10.010266,
 				"line": true,
 				"lon": -36.025702,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -489,7 +465,7 @@
 				"lat": -10.0082187,
 				"line": true,
 				"lon": -36.0274935,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -514,7 +490,7 @@
 				"lat": -10.0065814,
 				"line": true,
 				"lon": -36.0272124,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -539,7 +515,7 @@
 				"lat": -10.0043118,
 				"line": true,
 				"lon": -36.0278889,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -564,7 +540,7 @@
 				"lat": -10.047129,
 				"line": true,
 				"lon": -36.031578,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -589,7 +565,7 @@
 				"lat": -10.049938071749887,
 				"line": true,
 				"lon": -36.0315292298187,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
@@ -614,7 +590,7 @@
 				"lat": -9.969521320504679,
 				"line": true,
 				"lon": -36.03621363498817,
-				"zoom": 12
+				"zoom": 18
 			},
 			"media": {
 				"caption": "",
