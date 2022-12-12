@@ -10,9 +10,9 @@
 <article
   class="flex flex-row-reverse w-full max-w-screen-2xl p-8
         portrait:flex-col portrait:p-0 portrait:text-center">
-  {#if data.city.slides[0].media.url !== ""}
+  {#if data.city.hasOwnProperty('media')}
   <div class="w-2/3 aspect-video max-h-full max-w-full portrait:w-full bg-black">
-    <VimeoPlayer url={data.city.slides[0].media.url} autoplay />
+    <VimeoPlayer url={data.city.media || ''} autoplay />
   </div>
   {/if}
   <div class="flex-grow flex flex-col justify-between px-8 portrait:px-0">

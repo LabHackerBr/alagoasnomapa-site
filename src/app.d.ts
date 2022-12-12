@@ -19,6 +19,7 @@ interface currentCity { city: cidade }
 interface cidade {
   name: string
   info: string
+  media?: string
   slides: slide[]
   about: credit[]
 }

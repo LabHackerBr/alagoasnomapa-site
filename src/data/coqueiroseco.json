@@ -1,6 +1,7 @@
 {
   "name": "Coqueiro Seco",
   "info": "Cidade lagunar conhecida como a \"catedral da cultura popular\"",
+  "media": "https://vimeo.com/695447840/6a3ea6ec24",
   "slides": [
     {
       "location": {
@@ -267,8 +268,8 @@
       "media": {
         "caption": "",
         "credit": "",
-        "type": "image",
-        "url": "coqueiroseco06.jpg"
+        "type": "video",
+        "url": "https://vimeo.com/695464536/24e9daba0c"
       },
       "text": {
         "headline": "Igreja Matriz de Nossa Senhora Mãe dos Homens",
