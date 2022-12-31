@@ -1,6 +1,6 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "app/immutable/start-a4b53ec4.js",
+    "file": "app/immutable/start-9f45ec2e.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -18,8 +18,7 @@
       ".svelte-kit/generated/nodes/4.js",
       ".svelte-kit/generated/nodes/5.js",
       ".svelte-kit/generated/nodes/6.js",
-      ".svelte-kit/generated/nodes/7.js",
-      ".svelte-kit/generated/nodes/8.js"
+      ".svelte-kit/generated/nodes/7.js"
     ]
   },
   "src/routes/+layout.svelte": {
@@ -55,7 +54,7 @@
     ]
   },
   "src/routes/+page.svelte": {
-    "file": "app/immutable/components/pages/_page.svelte-52836863.js",
+    "file": "app/immutable/components/pages/_page.svelte-4175094f.js",
     "src": "src/routes/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -114,18 +113,6 @@
     "isEntry": true,
     "imports": [
       "_index-77c81dfa.js"
-    ]
-  },
-  "src/routes/teste/+page.svelte": {
-    "file": "app/immutable/components/pages/teste/_page.svelte-89052a63.js",
-    "src": "src/routes/teste/+page.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-77c81dfa.js",
-      "_paths-6ff7d232.js"
-    ],
-    "css": [
-      "app/immutable/assets/_page-a5682ee0.css"
     ]
   },
   "src/routes/cidades/[cidade=cidades]/+layout.ts": {
@@ -207,7 +194,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/3.js": {
-    "file": "app/immutable/chunks/3-6f275803.js",
+    "file": "app/immutable/chunks/3-dab82897.js",
     "src": ".svelte-kit/generated/nodes/3.js",
     "isDynamicEntry": true,
     "imports": [
@@ -246,14 +233,6 @@
       "src/routes/sobre/+page.svelte"
     ]
   },
-  ".svelte-kit/generated/nodes/8.js": {
-    "file": "app/immutable/chunks/8-8a69992a.js",
-    "src": ".svelte-kit/generated/nodes/8.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "src/routes/teste/+page.svelte"
-    ]
-  },
   "src/lib/leafletMap.svelte": {
     "file": "app/immutable/chunks/leafletMap-c4728d3a.js",
     "src": "src/lib/leafletMap.svelte",
@@ -265,6 +244,10 @@
       "app/immutable/assets/leafletMap-3625237c.css"
     ]
   },
+  "src/routes/cidades/+page.css": {
+    "file": "app/immutable/assets/_page-92e40f4c.css",
+    "src": "src/routes/cidades/+page.css"
+  },
   "src/routes/cidades/[cidade=cidades]/[slide=integer]/+page.css": {
     "file": "app/immutable/assets/_page-a83bf8bc.css",
     "src": "src/routes/cidades/[cidade=cidades]/[slide=integer]/+page.css"
@@ -273,16 +256,12 @@
     "file": "app/immutable/assets/_page-a5682ee0.css",
     "src": "src/routes/+page.css"
   },
-  "src/routes/+layout.css": {
-    "file": "app/immutable/assets/_layout-d54d63ae.css",
-    "src": "src/routes/+layout.css"
-  },
-  "src/routes/cidades/+page.css": {
-    "file": "app/immutable/assets/_page-92e40f4c.css",
-    "src": "src/routes/cidades/+page.css"
-  },
   "src/lib/leafletMap.css": {
     "file": "app/immutable/assets/leafletMap-3625237c.css",
     "src": "src/lib/leafletMap.css"
+  },
+  "src/routes/+layout.css": {
+    "file": "app/immutable/assets/_layout-d54d63ae.css",
+    "src": "src/routes/+layout.css"
   }
 }
