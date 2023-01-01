@@ -20,19 +20,19 @@
 
 <div class="relative">
   <SlideTransition key={currentKey}>
-    <div class="flex p-2 bg-theme-gray items-center">
+    <div class="flex py-2 bg-theme-gray items-center">
       <button
-        class="flex items-center justify-center w-8 text-white"
+        class="flex items-center justify-center h-full text-white"
         on:click={() => currentKey = currentKey > 0 ? currentKey - 1 : links.length - 1}>
-        <img class="w-3 transform rotate-180" src="/imgs/seta.svg" alt="Proximo slide" />
+        <img class="w-8 transform rotate-180" src="/imgs/seta.svg" alt="Proximo slide" />
       </button>
       <div class="flex-grow">
         <h1 class="font-bold text-3xl my-4 text-center">{currentCity.name}</h1>
       </div>
       <button
-        class="flex items-center justify-center w-8 text-white"
+        class="flex items-center justify-center h-full text-white"
         on:click={() => currentKey = currentKey < links.length - 1 ? currentKey + 1 : 0}>
-        <img class="w-3" src="/imgs/seta.svg" alt="Proximo slide" />
+        <img class="w-8" src="/imgs/seta.svg" alt="Proximo slide" />
       </button>
     </div>
 

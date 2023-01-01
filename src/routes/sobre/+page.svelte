@@ -1,3 +1,5 @@
-<div class="w-full h-full flex items-center justify-center">
-  Sobre o Projeto
-</div>
+<script>
+	import Credits from "$lib/credits.svelte";
+
+</script>
+<Credits />
