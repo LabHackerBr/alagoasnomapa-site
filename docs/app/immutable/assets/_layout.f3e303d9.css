@@ -507,12 +507,13 @@ video {
 .z-\[1000\] {
   z-index: 1000;
 }
-.z-\[500\] {
-  z-index: 500;
-}
 .mx-4 {
   margin-left: 1rem;
   margin-right: 1rem;
+}
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
 }
 .my-4 {
   margin-top: 1rem;
@@ -615,6 +616,9 @@ video {
 }
 .w-screen {
   width: 100vw;
+}
+.max-w-6xl {
+  max-width: 72rem;
 }
 .max-w-\[30\%\] {
   max-width: 30%;
