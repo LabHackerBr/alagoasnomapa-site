@@ -13,9 +13,4 @@
 	<main class="flex-grow bg-theme-gray portrait:bg-transparent relative overflow-y-auto z-0">
 		<slot />
 	</main>
-  {#if !$page.params.hasOwnProperty('cidade')}
-  <footer class="flex justify-center portrait:flex-wrap my-4">
-    <Logos />
-  </footer>
-  {/if}
 </div>

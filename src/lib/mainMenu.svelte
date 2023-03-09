@@ -15,7 +15,6 @@
   const closeCredit = () => isCreditsOpen = false
 </script>
 
-{#if $page.url.pathname !== '/' && $page.url.pathname !== '/teste'}
 <header
   transition:fly={{y: -80}}
   class="flex flex-grow-0 h-20 p-4">
@@ -68,7 +67,6 @@
 {/if}
 
 </aside>
-{/if}
 
 <style type="postcss">
 a:hover {

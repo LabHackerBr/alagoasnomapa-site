@@ -5,26 +5,33 @@
 		<link rel="icon" href="/favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<meta http-equiv="content-security-policy" content="">
-		<link rel="modulepreload" href="/app/immutable/start-b93244f9.js">
-		<link rel="modulepreload" href="/app/immutable/chunks/index-f3223564.js">
-		<link rel="modulepreload" href="/app/immutable/chunks/singletons-74ffead1.js">
-		<link rel="modulepreload" href="/app/immutable/chunks/paths-6ff7d232.js">
-		<link rel="modulepreload" href="/app/immutable/chunks/preload-helper-ade2c90f.js">
-		<link rel="modulepreload" href="/app/immutable/chunks/data-7e657676.js">
+		<link rel="modulepreload" href="/app/immutable/entry/start.0de7f73b.js">
+		<link rel="modulepreload" href="/app/immutable/chunks/index.fcc9cbf9.js">
+		<link rel="modulepreload" href="/app/immutable/chunks/singletons.0c8ef38f.js">
+		<link rel="modulepreload" href="/app/immutable/chunks/paths.6c77d975.js">
+		<link rel="modulepreload" href="/app/immutable/entry/app.0f12a8f1.js">
+		<link rel="modulepreload" href="/app/immutable/chunks/preload-helper.41c905a7.js">
+		<link rel="modulepreload" href="/app/immutable/chunks/data.1951c4fb.js">
 	</head>
 	<body>
 		<div style="display: contents">
-		<script type="module" data-sveltekit-hydrate="45h">
-			import { start } from "/app/immutable/start-b93244f9.js";
+			<script>
+				{
+					__sveltekit_1w5ou1d = {
+						env: {},
+						base: "",
+						element: document.currentScript.parentElement
+					};
 
-			start({
-				env: {},
-				hydrate: null,
-				paths: {"base":"","assets":""},
-				target: document.querySelector('[data-sveltekit-hydrate="45h"]').parentNode,
-				version: "1672614793776"
-			});
-		</script></div>
+					Promise.all([
+						import("/app/immutable/entry/start.0de7f73b.js"),
+						import("/app/immutable/entry/app.0f12a8f1.js")
+					]).then(([kit, app]) => {
+						kit.start(app, __sveltekit_1w5ou1d.element);
+					});
+				}
+			</script>
+		</div>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-M0HYZ2EDWDD"></script>
     <script>
         window.dataLayer = window.dataLayer || [];

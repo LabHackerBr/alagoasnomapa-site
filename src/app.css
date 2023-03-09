@@ -18,6 +18,10 @@ body {
   overflow: hidden;
 }
 
+h1 {
+  @apply my-6 text-theme-darkgray text-2xl text-center font-bold;
+}
+
 svg {
   height: 100%;
   width: 100%;
