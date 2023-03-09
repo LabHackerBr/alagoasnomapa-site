@@ -38,7 +38,6 @@
     {#if browser}
     <svelte:component this={LeafletContainer} bind:this={map} mapData={data.city.slides} {currentSlide} />
     {/if}
-    <div class="absolute top-0 left-0 w-full h-full z-[500]"></div>
   </div>
 
   <div class="city relative overflow-hidden">

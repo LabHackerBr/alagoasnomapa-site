@@ -9,8 +9,7 @@
   const mapOptions = {
         center: [mapData[currentSlide].location.lat, mapData[currentSlide].location.lon],
         zoom: mapData[currentSlide].location.zoom,
-        attributionControl: false,
-        zoomControl: false
+        attributionControl: false
     }
     const tileUrl = "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png";
     const tileLayerOptions = {

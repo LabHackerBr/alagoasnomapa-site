@@ -32,7 +32,7 @@
     </div>
   </div>
   <h1>Por onde passamos</h1>
-  <div class="flex portrait:flex-col w-full h-full">
+  <div class="flex portrait:flex-col w-full h-full max-w-6xl mx-auto">
     <div class="flex-grow p-6 lg:p-20">
       <StateMap />
     </div>
