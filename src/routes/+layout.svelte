@@ -1,6 +1,4 @@
 <script>
-  import { page } from "$app/stores"
-	import Logos from '$lib/logos.svelte'
 	import MainMenu from '$lib/mainMenu.svelte'
 
   export const prerender = true

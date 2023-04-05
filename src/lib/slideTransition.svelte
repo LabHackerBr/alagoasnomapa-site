@@ -42,7 +42,7 @@
 <div
   in:slide="{{ out: right ? -1 : 1, duration: 500, delay: transitionDelay }}"
   out:slide="{{ out: right ? 1 : -1, duration: 500, delay: transitionDelay }}"
-  class="absolute w-full h-full flex flex-col text-center top-0 z-[1000]">
+  class="absolute w-full h-full flex flex-col text-center top-0 z-40">
   <slot />
 </div>
 {/key}

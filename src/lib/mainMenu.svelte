@@ -18,7 +18,7 @@
 <header
   transition:fly={{y: -80}}
   class="flex flex-grow-0 h-20 p-4">
-  <a class="h-full aspect-[3/1]" href="{base}/cidades">
+  <a class="h-full aspect-[3/1]" href="{base}/">
     <img
       class="h-full"
       src="{base}/imgs/logo_full.svg"
