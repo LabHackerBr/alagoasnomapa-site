@@ -9,8 +9,6 @@ const config = {
   // for more information about preprocessors
   kit: {
     adapter: adapter({
-      pages: "docs",
-      assets: "docs",
       fallback: '404.html'
     }),
     alias: {
