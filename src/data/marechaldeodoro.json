@@ -1,412 +1,412 @@
 {
   "name": "Marechal Deodoro",
   "info": "Cidade banhada pelas lagoas Mundaú e Manguaba que é Patrimônio Histórico Nacional",
-	"slides": [
-		{
-			"icon": {
+  "slides": [
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.723746,
-				"line": true,
-				"lon": -35.811937,
-				"zoom": 18
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "https://vimeo.com/699552073",
+      "location": {
+        "lat": -9.723746,
+        "line": true,
+        "lon": -35.811937,
+        "zoom": 18
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "https://vimeo.com/699552073/06812ecc4e",
         "type": "video"
-			},
-			"text": {
-				"headline": "Barra Nova",
-				"text": "<span>Povoado de Marechal Deodoro conhecido principalmente pela Prainha.</span>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Barra Nova",
+        "text": "<span>Povoado de Marechal Deodoro conhecido principalmente pela Prainha.</span>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.737749988648028,
-				"line": true,
-				"lon": -35.83440863936334,
-				"zoom": 20
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "marechal0.jpg",
+      "location": {
+        "lat": -9.737749988648028,
+        "line": true,
+        "lon": -35.83440863936334,
+        "zoom": 20
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "marechal0.jpg",
         "type": "image"
-			},
-			"text": {
-				"headline": "Drive Cocada Cultura",
-				"text": "<span>Espaço destinado para as cocadeiras da Massagueira venderem seus produtos em segurança, já que antes elas vendiam na beira da pista.</span>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Drive Cocada Cultura",
+        "text": "<span>Espaço destinado para as cocadeiras da Massagueira venderem seus produtos em segurança, já que antes elas vendiam na beira da pista.</span>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.77106,
-				"line": true,
-				"lon": -35.842126,
-				"zoom": 17
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "https://vimeo.com/699577084",
+      "location": {
+        "lat": -9.77106,
+        "line": true,
+        "lon": -35.842126,
+        "zoom": 17
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "https://vimeo.com/699577084/aa0f86193b",
         "type": "video"
-			},
-			"text": {
-				"headline": "Vila dos Pescadores (S. Moisés)",
-				"text": "<span>Seu Moisés é pescador e nativo da Praia do Francês, de onde se considera um dos fundadores também por sua descendência portuguesa. Apaixonado pela praia, ele cuida da vila dos pescadores varrendo as ruas e zelando pelo local. </span><br><br>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Vila dos Pescadores (S. Moisés)",
+        "text": "<span>Seu Moisés é pescador e nativo da Praia do Francês, de onde se considera um dos fundadores também por sua descendência portuguesa. Apaixonado pela praia, ele cuida da vila dos pescadores varrendo as ruas e zelando pelo local. </span><br><br>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.732929607290007,
-				"line": true,
-				"lon": -35.891279787343535,
-				"zoom": 18
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "marechal1.jpg",
+      "location": {
+        "lat": -9.732929607290007,
+        "line": true,
+        "lon": -35.891279787343535,
+        "zoom": 18
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "marechal1.jpg",
         "type": "image"
-			},
-			"text": {
-				"headline": "Igreja N S do Bonfim",
-				"text": "<span>Primeira igreja católica da cidade.</span><br>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Igreja N S do Bonfim",
+        "text": "<span>Primeira igreja católica da cidade.</span><br>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.720796746807139,
-				"line": true,
-				"lon": -35.895239618003075,
-				"zoom": 18
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "marechal2.jpg",
+      "location": {
+        "lat": -9.720796746807139,
+        "line": true,
+        "lon": -35.895239618003075,
+        "zoom": 18
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "marechal2.jpg",
         "type": "image"
-			},
-			"text": {
-				"headline": "Igreja N S da Conceição",
-				"text": "<span>Igreja matriz, onde fica a padroeira da cidade.</span><br>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Igreja N S da Conceição",
+        "text": "<span>Igreja matriz, onde fica a padroeira da cidade.</span><br>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.720796746807139,
-				"line": true,
-				"lon": -35.895239618003075,
-				"zoom": 17
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "marechal3.jpg",
+      "location": {
+        "lat": -9.720796746807139,
+        "line": true,
+        "lon": -35.895239618003075,
+        "zoom": 17
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "marechal3.jpg",
         "type": "image"
-			},
-			"text": {
-				"headline": "Filarmonica Santa Cecília",
-				"text": "<span>Filarmônica mais antiga do estado de Alagoas em atividade, com 111 anos de fundação.</span><br>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Filarmonica Santa Cecília",
+        "text": "<span>Filarmônica mais antiga do estado de Alagoas em atividade, com 111 anos de fundação.</span><br>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.717585346333397,
-				"line": true,
-				"lon": -35.89545856035891,
-				"zoom": 18
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "https://vimeo.com/699530291",
+      "location": {
+        "lat": -9.717585346333397,
+        "line": true,
+        "lon": -35.89545856035891,
+        "zoom": 18
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "https://vimeo.com/699530291/57fe3807bc",
         "type": "video"
-			},
-			"text": {
-				"headline": "Banda de Pífano (Matriz)",
-				"text": "<span>Grupo que anda pelas ruas das cidades pedindo ajuda através da arte.</span><br><br>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Banda de Pífano (Matriz)",
+        "text": "<span>Grupo que anda pelas ruas das cidades pedindo ajuda através da arte.</span><br><br>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.72000437154396,
-				"line": true,
-				"lon": -35.895533202659024,
-				"zoom": 18
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "marechal4.jpg",
+      "location": {
+        "lat": -9.72000437154396,
+        "line": true,
+        "lon": -35.895533202659024,
+        "zoom": 18
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "marechal4.jpg",
         "type": "image"
-			},
-			"text": {
-				"headline": "Casa da Câmara e Antiga Cadeia",
-				"text": "<span>Construção do século 19 que primeiramente foi um armazém de sal, mas também já funcionou como Casa da Câmara e como cadeia. Atualmente sedia a Secretaria de Cultura do município de Marechal Deodoro.</span><br><br>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Casa da Câmara e Antiga Cadeia",
+        "text": "<span>Construção do século 19 que primeiramente foi um armazém de sal, mas também já funcionou como Casa da Câmara e como cadeia. Atualmente sedia a Secretaria de Cultura do município de Marechal Deodoro.</span><br><br>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.719429072606925,
-				"line": true,
-				"lon": -35.89406930193232,
-				"zoom": 17
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "marechal5.jpg",
+      "location": {
+        "lat": -9.719429072606925,
+        "line": true,
+        "lon": -35.89406930193232,
+        "zoom": 17
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "marechal5.jpg",
         "type": "image"
-			},
-			"text": {
-				"headline": "Colônia dos Pescadores",
-				"text": "<span>Associação que representa os pescadores.</span><br>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Colônia dos Pescadores",
+        "text": "<span>Associação que representa os pescadores.</span><br>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.716847,
-				"line": true,
-				"lon": -35.892266,
-				"zoom": 19
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "https://vimeo.com/699519130",
+      "location": {
+        "lat": -9.716847,
+        "line": true,
+        "lon": -35.892266,
+        "zoom": 19
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "https://vimeo.com/699519130/dfd42e745c",
         "type": "video"
-			},
-			"text": {
-				"headline": "Cais da Lancha",
-				"text": "<span>Ponte usada para embarque e desembarque de passageiros de uma lancha que fazia o trajeto até a capital Maceió.</span><br>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Cais da Lancha",
+        "text": "<span>Ponte usada para embarque e desembarque de passageiros de uma lancha que fazia o trajeto até a capital Maceió.</span><br>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.712767,
-				"line": true,
-				"lon": -35.891948,
-				"zoom": 17
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "marechal6.jpg",
+      "location": {
+        "lat": -9.712767,
+        "line": true,
+        "lon": -35.891948,
+        "zoom": 17
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "marechal6.jpg",
         "type": "image"
-			},
-			"text": {
-				"headline": "Mucuri",
-				"text": "<span>Estabelecimento culinário com uma nova proposta de ambiente gastronômico e cultural para o centro histórico de Marechal Deodoro.</span><br><br>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Mucuri",
+        "text": "<span>Estabelecimento culinário com uma nova proposta de ambiente gastronômico e cultural para o centro histórico de Marechal Deodoro.</span><br><br>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.716689,
-				"line": true,
-				"lon": -35.89388,
-				"zoom": 18
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "marechal7.jpg",
+      "location": {
+        "lat": -9.716689,
+        "line": true,
+        "lon": -35.89388,
+        "zoom": 18
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "marechal7.jpg",
         "type": "image"
-			},
-			"text": {
-				"headline": "Centro Histórico",
-				"text": "<span>Local onde predomina a arquitetura preservada desde a época da colonização.</span><br>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Centro Histórico",
+        "text": "<span>Local onde predomina a arquitetura preservada desde a época da colonização.</span><br>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.715605157103187,
-				"line": true,
-				"lon": -35.8938965732735,
-				"zoom": 18
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "marechal8.jpg",
+      "location": {
+        "lat": -9.715605157103187,
+        "line": true,
+        "lon": -35.8938965732735,
+        "zoom": 18
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "marechal8.jpg",
         "type": "image"
-			},
-			"text": {
-				"headline": "Mercado das Rendas e Bordados",
-				"text": "<span>Ponto comercial atribuído para as rendeiras da cidade.</span><br>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Mercado das Rendas e Bordados",
+        "text": "<span>Ponto comercial atribuído para as rendeiras da cidade.</span><br>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.720458873441684,
-				"line": true,
-				"lon": -35.89559691803075,
-				"zoom": 20
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "marechal9.jpg",
+      "location": {
+        "lat": -9.720458873441684,
+        "line": true,
+        "lon": -35.89559691803075,
+        "zoom": 20
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "marechal9.jpg",
         "type": "image"
-			},
-			"text": {
-				"headline": "Filarmonica Carlos Gomes",
-				"text": "<span>Segunda filarmônica mais antiga da cidade, atualmente com 106 anos de fundação.</span><br>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Filarmonica Carlos Gomes",
+        "text": "<span>Segunda filarmônica mais antiga da cidade, atualmente com 106 anos de fundação.</span><br>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.717585346333397,
-				"line": true,
-				"lon": -35.89545856035891,
-				"zoom": 19
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "marechal10.jpg",
+      "location": {
+        "lat": -9.717585346333397,
+        "line": true,
+        "lon": -35.89545856035891,
+        "zoom": 19
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "marechal10.jpg",
         "type": "image"
-			},
-			"text": {
-				"headline": "Casas em risco de desabamento",
-				"text": "<span>Estruturas do século 17 que estão caindo por falta de restauração.</span><br>"
-			}
-		},
-		{
-			"icon": {
+      },
+      "text": {
+        "headline": "Casas em risco de desabamento",
+        "text": "<span>Estruturas do século 17 que estão caindo por falta de restauração.</span><br>"
+      }
+    },
+    {
+      "icon": {
         "iconUrl": "/imgs/pin.svg",
         "iconSize": [
           48,
           48
         ]
       },
-			"location": {
-				"lat": -9.716764399882639,
-				"line": true,
-				"lon": -35.8924618179767,
-				"zoom": 17
-			},
-			"media": {
-				"caption": "",
-				"credit": "",
-				"url": "https://vimeo.com/699517948",
+      "location": {
+        "lat": -9.716764399882639,
+        "line": true,
+        "lon": -35.8924618179767,
+        "zoom": 17
+      },
+      "media": {
+        "caption": "",
+        "credit": "",
+        "url": "https://vimeo.com/699517948/04d59afd5b",
         "type": "video"
-			},
-			"text": {
-				"headline": "Nova Orla Lagunar",
-				"text": "<span>Reurbanização de uma pequena vila às margens da lagoa, que costumava sofrer com as chuvas e marés cheias. </span><br><br>"
-			}
-		}
-	],
+      },
+      "text": {
+        "headline": "Nova Orla Lagunar",
+        "text": "<span>Reurbanização de uma pequena vila às margens da lagoa, que costumava sofrer com as chuvas e marés cheias. </span><br><br>"
+      }
+    }
+  ],
   "about": [
     {
       "section": "oficinas",
-      "values" : [
+      "values": [
         {
           "title": "Vídeo",
           "names": [
@@ -456,7 +456,7 @@
     },
     {
       "section": "extras",
-      "values" : [
+      "values": [
         {
           "title": "Músicas",
           "names": [
@@ -481,7 +481,7 @@
     },
     {
       "section": "agradecimentos",
-      "values" : [
+      "values": [
         {
           "title": "",
           "names": [
